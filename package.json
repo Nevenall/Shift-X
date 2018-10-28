@@ -1,19 +1,19 @@
 {
-  "name": "forkandwrite",
+  "name": "shift-x",
   "version": "1.0.0",
-  "description": "A template for markdown writing projects",
+  "description": "Questionable superheroes save the world",
   "main": "",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nevenall/ForkAndWrite.git"
+    "url": "git+https://github.com/Nevenall/Shift-X.git"
   },
   "author": "Dan Behlings",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nevenall/ForkAndWrite/issues"
+    "url": "https://github.com/Nevenall/Shift-X/issues"
   },
-  "homepage": "https://github.com/Nevenall/ForkAndWrite#readme",
+  "homepage": "https://github.com/Nevenall/Shift-X#readme",
   "devDependencies": {
     "@types/gulp": "^4.0.5",
     "delete": "^1.1.0",
