@@ -1,5 +1,16 @@
 # Shift-X
 
+## The Game
+
+Shift-X is 
+
+## Touchstones
+
+## Forged in the Dark
+
+## License
+
+
 forged in the dark
 
 license
