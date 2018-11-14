@@ -12,7 +12,7 @@ This game is derived from Blades in the Dark by John Harper. It makes use of the
 
 Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark Logo is © One Seven Design, and is used with permission.
 
-![forged in the dark](assets/forged_in_the_dark_logo_0.png)
+<img src="assets/forged_in_the_dark_logo_0.png" width=250 height=128></img>
 
 ## License
 
