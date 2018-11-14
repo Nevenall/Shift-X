@@ -1,4 +1,4 @@
-<img src="assets/logo.png" width=347 height=179></img>
+<img src="assets/logo-only.png" width=346 height=166></img>
 
 Shift-X is a superheroic roleplaying game Forged in the Dark. It is about a team of people with extraordinary powers trying to create and deepen their relationships while foiling the plans of devious villains.  
 
