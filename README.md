@@ -1,30 +1,23 @@
 # Shift-X
 
-## The Game
-
-Shift-X is 
+Shift-X is a superheroic roleplaying game Forged in the Dark. It is about a team of people with extraordinary powers trying to create and deepen their relationships while foiling the plans of devious villains.  
 
 ## Touchstones
 
+The Marvel Cinematic Universe, especially the Avengers movies, are the Platonic ideal for the Shift-X experience. 
+
 ## Forged in the Dark
+
+This game is derived from Blades in the Dark by John Harper. It makes use of the Blades in the Dark System Reference Document which can be found at [bladesinthedark.com](http://bladesinthedark.com).
+
+Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark Logo is © One Seven Design, and is used with permission.
+
+![forged in the dark](assets/forged_in_the_dark_logo_0.png)
 
 ## License
 
-
-forged in the dark
-
-license
-
-how does this license intersect with the forged one?
-
-refer to bladesinthedark.com
-
-and the srd repo
-
-
-also touchstones for what this game is about. 
-Marvel movies. 
-
+Blades in the Dark is licensed under a Creative Commons 3.0 license. 
+Shift-X is licenced under a Creative Commons 4.0 license.
 
 ## Outline
 
