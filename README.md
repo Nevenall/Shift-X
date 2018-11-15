@@ -6,8 +6,6 @@ Shift-X is a superheroic roleplaying game Forged in the Dark. It is about a team
 
 The Marvel Cinematic Universe, especially the Avengers movies, are the Platonic ideal for the Shift-X experience. 
 
-
-
 ## Licenses
 
 ### This Work 
