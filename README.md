@@ -39,3 +39,13 @@ Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
       1. gathering information/tracing
    1. resolution <!-- A scene/sequence where the stakes are the highest -->
    1. downtime
+
+## Folder Structure
+
+- System
+  - documents for the rules
+- Setting
+  - an atlas of all things. People, places, things, and characters.
+- Issues
+  - the story so far
+
