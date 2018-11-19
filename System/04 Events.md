@@ -1,5 +1,5 @@
 
-# Planning &amp; engagement
+# Planning & engagement
 
 Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
 

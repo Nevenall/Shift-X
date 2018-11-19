@@ -14,7 +14,7 @@ The Marvel Cinematic Universe, especially the Avengers movies, are the Platonic 
 
 ### Forged in the Dark
 
-This game is derived from Blades in the Dark by John Harper. It makes use of the Blades in the Dark System Reference Document which can be found at [bladesinthedark.com](http://bladesinthedark.com).
+This work is based on Blades in the Dark (found at http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
 Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark Logo is © One Seven Design, and is used with permission.
 
@@ -23,6 +23,9 @@ Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 ## Outline
 
 - basics
+  - standard BitD basics
+  - threat level and setting Position & Effect
+  - powers
 - characters
   - threat level
   - powers
@@ -44,7 +47,7 @@ Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark
 
 - System
   - documents for the rules
-- Setting
+- Atlas
   - an atlas of all things. People, places, things, and characters.
 - Issues
   - the story so far

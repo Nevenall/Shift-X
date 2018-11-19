@@ -2,19 +2,19 @@
 
 ## The Game
 
-*Blades in the Dark* is a game about a group of daring characters building an enterprising crew. We play to find out if the fledgling crew can thrive amidst the teeming threats that surround it.
+*Shift-X* is about a team of people with extraordinary powers foiling the plans of devious villains while attempting to create and deepen thair personal relationships.  
 
 ## The Players
 
-Each player creates a character and works with the other players to create the crew to which their characters belong. Each player strives to bring their character to life as an interesting, daring character who reaches boldly beyond their current safety and means.
+Each player creates a character and works with the other players to create the team to which their characters belong. Each player strives to bring their character to life as an interesting, daring hero who risks everything to protect their world.
 
 The players work together with the Game Master to establish the tone and style of the game by making judgment calls about the mechanics, dice, and consequences of actions. The players take responsibility as co-authors of the game with the GM.
 
 ## The Characters
 
-The characters attempt to develop their crew by performing scores and contending with threats from their enemies.
+The characters attempt to develop relationships with each other and develop their superteam, while using their powers to stop threats.
 
-## The Crew
+## The Team
 
 In addition to creating characters, you’ll also create the crew by choosing which type of criminal enterprise you’re interested in exploring.
 
