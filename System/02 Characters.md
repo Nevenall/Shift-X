@@ -42,13 +42,13 @@ Each playbook has a list of NPCs that your character knows. Choose one from the 
 
 Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
 
-* <span class="game-term">Faith: </span>You’re dedicated to an unseen power, forgotten god, ancestor, etc.
-* <span class="game-term">Gambling:</span> You crave games of chance, betting on sporting events, etc.
-* <span class="game-term">Luxury: </span>Expensive or ostentatious displays of opulence.
-* <span class="game-term">Obligation: </span>You’re devoted to a family, a cause, an organization, a charity, etc.
-* <span class="game-term">Pleasure:</span> Gratification from lovers, food, drink, drugs, art, theater, etc.
-* <span class="game-term">Stupor: </span>You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
-* <span class="game-term">Weird: </span>You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+* {Faith: }You’re dedicated to an unseen power, forgotten god, ancestor, etc.
+* {Gambling:} You crave games of chance, betting on sporting events, etc.
+* {Luxury: }Expensive or ostentatious displays of opulence.
+* {Obligation: }You’re devoted to a family, a cause, an organization, a charity, etc.
+* {Pleasure:} Gratification from lovers, food, drink, drugs, art, theater, etc.
+* {Stupor: }You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+* {Weird: }You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
 
 ## Record your name, alias, &amp; look
@@ -63,37 +63,37 @@ That’s it! Your character is ready for play. When you start the first session,
 
 ## Character creation summary
 
-@TODO style dropcaps.
+todo -  style dropcaps.
 
-<span class="number">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
+{1} **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
-<span class="number">2</span> **Choose a heritage.** Detail your choice with a note about your family life. _For example, Ore miners, now war refugees._
+{2} **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
 
-<span class="number">3</span> **Choose a background.** Detail your choice with your specific history. _For example, Labor: Hunter, mutineer._
+{3} **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
 
-<span class="number">4</span> **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. _(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)_
+{4} **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
 
-<span class="number">5</span> **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+{5} **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-<span class="number">6</span> **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+{6} **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
 
-<span class="number">7</span> **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+{7} **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
 
-<span class="number">8</span> **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
+{8} **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
 
 ## Loadout
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>** Light. _You’re faster, less conspicuous; you blend in with citizens._
-* <span class="game-term">4/5 load: </span>**Normal**. _You look like a scoundrel, ready for trouble._
-* <span class="game-term">6 load: </span>**Heavy.** _You’re slower. You look like an operative on a mission._
-* <span class="game-term">7-9 load: </span>**Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
+* {1-3 load:}** Light. *You’re faster, less conspicuous; you blend in with citizens.*
+* {4/5 load: }**Normal**. *You look like a scoundrel, ready for trouble.*
+* {6 load: }**Heavy.** *You’re slower. You look like an operative on a mission.*
+* {7-9 load: }**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
 
 
-Some special abilities (like the Cutter’s <span class="game-term">Mule</span> ability or Assassin’s Rigging) increase the load limits.
+Some special abilities (like the Cutter’s {Mule} ability or Assassin’s Rigging) increase the load limits.
 
-Some items count as two items for load (they have two connected boxes). _Items in italics don’t count toward your load._
+Some items count as two items for load (they have two connected boxes). *Items in italics don’t count toward your load.*
 
 You don’t need to select specific items now.  Review your personal items and the standard item descriptions.
 
@@ -106,12 +106,12 @@ Medium length description of the character here. Include what kind of activities
 
 **Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
 
-@TODO tables 51
+todo -  tables 51
 
 
 ## Starting builds
 
-_If you want some guidance when you assign your four starting action dots and special ability, use one of these templates._
+*If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
 **Example 1.** 4 Action Dots assigned plus a special ability
 
@@ -151,7 +151,7 @@ You may imbue your hands, melee weapons, or tools with spirit energy. You gain *
 
 ### Leader
 
-When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
+When you {Command} a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
@@ -163,7 +163,7 @@ Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
 
 ### Not to be trifled with
 
-You can **push yourself** to do one of the following: _perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat._
+You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat.*
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 
@@ -171,11 +171,11 @@ You can **push yourself** to do one of the following: _perform a feat of physica
 
 ### Savage
 
-When you unleash physical violence, it’s especially frightening. When you <span class="game-term">Command</span> a frightened target, take **+1d**.
+When you unleash physical violence, it’s especially frightening. When you {Command} a frightened target, take **+1d**.
 
 > You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.
 
-> In addition, when you <span class="game-term">Command</span> someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
+> In addition, when you {Command} someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
 
 ### Vigorous
 
@@ -185,7 +185,7 @@ You recover from harm faster. Permanently fill in one of your healing clock segm
 
 ### Sharpshooter
 
-You can **push yourself** to do one of the following: _make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy._
+You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy.*
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 
@@ -211,11 +211,11 @@ Penalties from harm are one level less severe (though level 4 harm is still fata
 
 ### Vengeful
 
-You gain an additional **xp trigger**: _You got payback against someone who harmed you or someone you care about._ If your crew helped you get payback, also mark crew xp.
+You gain an additional **xp trigger**: *You got payback against someone who harmed you or someone you care about.* If your crew helped you get payback, also mark crew xp.
 
 ### Alchemist
 
-When you **invent** or **craft** a creation with _alchemical_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special formula already known.
+When you **invent** or **craft** a creation with *alchemical* features, you get **+1 result level** to your roll (a {1-3} becomes a {4/5}, etc.). You begin with one special formula already known.
 
 > Follow the Inventing procedure with the GM to define your first special alchemical formula.
 
@@ -225,7 +225,7 @@ During downtime, you get **two ticks** to distribute among any long term project
 
 ### Artificer
 
-When you **invent** or **craft** a creation with _spark-craft_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special design already known.
+When you **invent** or **craft** a creation with *spark-craft* features, you get **+1 result level** to your roll (a {1-3} becomes a {4/5}, etc.). You begin with one special design already known.
 
 > Follow the Inventing procedure with the GM to define your first spark-craft design.
 
@@ -237,13 +237,13 @@ You may expend your **special armor** to resist a consequence of fatigue, weakne
 
 ### Supernatural ward
 
-When you <span class="game-term">Wreck</span> an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
+When you {Wreck} an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
 
 > If you make an area anathema to the supernatural, they will do everything they can to avoid it, and will suffer torment if forced inside the area. If you make an area enticing to spirits, they will seek it out and linger in the area, and will suffer torment if forced to leave. This effect lasts for several days over an area the size of a small room. Particularly powerful or prepared entities may roll their quality or arcane magnitude to see how well they’re able to resist the effect.
 
 ### Saboteur
 
-When you <span class="game-term">Wreck</span>, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
+When you {Wreck}, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
 
 > You can drill holes in things, melt stuff with acid, even use a muffled explosive, and it will all be very quiet and extremely hard to notice.
 
@@ -269,7 +269,7 @@ When you roll a **desperate** action, you get **+1d** to your roll if you also t
 
 ### The devil’s footsteps
 
-You can **push yourself** to do one of the following: _perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other._
+You can **push yourself** to do one of the following: *perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other.*
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) if you’re making a roll, in addition to the special ability.
 
@@ -315,7 +315,7 @@ At the end of each downtime phase, you earn **+2 stash**.
 
 ### Mesmerism
 
-When you <span class="game-term">Sway</span> someone, you may cause them to forget that it’s happened until they next interact with you.
+When you {Sway} someone, you may cause them to forget that it’s happened until they next interact with you.
 
 > The victim’s memory “glosses over” the missing time, so it’s not suspicious that they’ve forgotten something. When you next interact with the victim, they remember everything clearly, including the strange effect of this ability.
 
@@ -357,7 +357,7 @@ You may expend your **special armor** to **protect** a teammate, or to **push yo
 
 ### Weaving the web
 
-You gain **+1d** to <span class="game-term">Consort</span> when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
+You gain **+1d** to {Consort} when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
 
 > Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren’t aware that they’re helping you.
 
@@ -367,19 +367,19 @@ You’re always aware of supernatural entities in your presence. Take **+1d** wh
 
 ### Iron will
 
-You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with <span class="game-term">Resolve</span>, take **+1d**.
+You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with {Resolve}, take **+1d**.
 
 > With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 
 ### Ritual
 
-You know the arcane methods to perform ritual sorcery. You can <span class="game-term">Study</span> an occult ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
+You know the arcane methods to perform ritual sorcery. You can {Study} an occult ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
 
 > Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.
 
 ### Strange methods
 
-When you **invent** or **craft** a creation with _arcane_ features, get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one arcane design already known.
+When you **invent** or **craft** a creation with *arcane* features, get **+1 result level** to your roll (a {1-3} becomes a {4/5}, etc.). You begin with one arcane design already known.
 
 > Follow the Inventing procedure with the GM  to define your first arcane design.
 
