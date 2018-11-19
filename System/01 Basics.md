@@ -67,11 +67,11 @@ There are four types of rolls that you’ll use most often in the game:
 
 *Blades in the Dark* has a structure to play, with four parts. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
 
-When the group is ready, they choose a *target_ for their next operation, then choose a type of _plan_ to employ. This triggers the _engagement roll* (which establishes the situation as the operation starts) and then the game shifts into the **score** phase.
+When the group is ready, they choose a *target* for their next operation, then choose a type of *plan* to employ. This triggers the *engagement roll* (which establishes the situation as the operation starts) and then the game shifts into the **score** phase.
 
 During the score, the PCs engage the target—they make rolls, overcome obstacles, call for flashbacks, and complete the operation (successfully or not). When the score is finished, the game shifts into the **downtime** phase.
 
-During the downtime phase, the GM engages the systems for *payoff_, _heat_, and _entanglements_, to determine all the fallout from the score. Then the PCs each get their _downtime activities*, such as indulging their vice to remove stress or working on a long-term project. When all the downtime activities are complete, the game returns to **free play** and the cycle starts over again.
+During the downtime phase, the GM engages the systems for *payoff*, *heat*, and *entanglements*, to determine all the fallout from the score. Then the PCs each get their *downtime activities*, such as indulging their vice to remove stress or working on a long-term project. When all the downtime activities are complete, the game returns to **free play** and the cycle starts over again.
 
 The phases are a conceptual model to help you organize the game. They’re not meant to be rigid structures that restrict your options (this is why they’re presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you’re trying to accomplish in play. Each phase suits a different goal.
 
@@ -81,6 +81,7 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
+::: columns
 * Attune
 * Command
 * Consort
@@ -93,6 +94,7 @@ There are 12 **actions** in the game that the player characters use to overcome 
 * Sway
 * Tinker
 * Wreck
+:::
 
 Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
@@ -118,9 +120,8 @@ When the enemy has a big advantage, you’ll need to make a resistance roll befo
 
 The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
-For details on **Resistance Rolls**, see page 28.
-
-@TODO Add table from page 9.
+<!-- todo - make a link. For details on **Resistance Rolls**, see page 28.  -->
+<!-- todo - Add table from page 9. -->
 
 ### Actions
 
@@ -180,7 +181,7 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 Player characters in *Blades in the Dark* have a special reserve called **stress**. When they suffer a consequence that they don’t want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-*During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his {Prowess} rating to resist, and gets a {2}. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
+*During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
 
 *The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm (“Chest Wound”) instead of level 3 harm (“Punctured Lung”).*
 
@@ -194,7 +195,7 @@ You can use stress to push yourself for greater performance. For each bonus you 
 
 ### Trauma
 
-When a PC marks their last stress box, they suffer a level of {trauma}. When you take {trauma}, circle one of your **trauma conditions** like *Cold_, _Reckless_, _Unstable*, etc. They’re all described on the next page.
+When a PC marks their last stress box, they suffer a level of {trauma}. When you take {trauma}, circle one of your **trauma conditions** like *Cold*, *Reckless*, *Unstable*, etc. They’re all described on the next page.
 
 When you suffer {trauma}, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained. When you return, **you have zero stress** and your vice has been satisfied for the next downtime.
 
@@ -215,7 +216,7 @@ When you suffer {trauma}, you’re taken out of action. You’re “left for dea
 
 A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
-@TODO add clock illustration
+<!-- todo - add clock illustration -->
 
 *Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.*
 
@@ -356,13 +357,13 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a {6}, the PC wins and has their effect. On a {4/5}, it’s a mix—both the PC and the NPC have their effect. On a {1-3}, the NPC wins and has their effect as a consequence on the PC.
 
-@TODO add Action Roll table p21
+<!-- todo - add Action Roll table p21 -->
 
 ## Effect
 
 In *Blades in the Dark*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand&#173;&#173;—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
-@TODO add fancy effect levels p23.
+<!-- todo - add fancy effect levels p23. -->
 
 ### Assessing Factors
 
@@ -416,7 +417,7 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild _{Skirmish}_. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
+* *She fights the gang straight up, rushing into their midst, hacking away in a wild *{Skirmish}*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
 * *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
 * *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
 * *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
@@ -457,7 +458,7 @@ Your character suffers the penalty indicated at the end of the row if any or all
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you’d have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
 
-@TODO Table from p27
+todo - Table from p27
 
 
 #### Harm examples
@@ -502,7 +503,7 @@ The GM may also threaten several consequences at once, then the player may choos
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can’t roll first and see how much stress you’ll take, then decide whether or not to resist.
 
-@TODO add table p29
+todo - add table p29
 
 ### Armor
 
@@ -554,7 +555,7 @@ Other examples of fortune rolls:
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s {wanted level} counts as a major advantage for the inspectors.
 * The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to {Consort}, {Sway}, or {Command} her to stand down.
 
-@TODO table p31
+todo - table p31
 
 ## Gathering Information
 
@@ -584,14 +585,14 @@ You track the investigation project using a progress clock. Once the clock is fi
 * You might {Command} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
 * You might {Consort} with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
 * You might {Hunt} a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
-* You might {Study} ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? __Will anyone sense if they’re disabled?*
+* You might {Study} ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*
 * Or you might {Study} a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
 * You might {Survey} a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
 * Or you might {Survey} a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
 * You might {Sway} a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
 * Or you might {Sway} his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
 
-@TODO table p33
+todo - table p33
 
 ## The Faction Game
 
@@ -631,7 +632,7 @@ Another way to contribute to the crew’s development is by acquiring **turf**. 
 
 Turf is marked on your {rep} tracker (see the example below). Each piece of turf you hold reduces the {rep} cost to develop by one. So, if you have 2 turf, you need 10 {rep} to develop. If you have 4 turf, you need 8 {rep} to develop. **You can hold a maximum of 6 turf.** When you develop and reset your {rep}, **you keep the marks from all the turf you hold.**
 
-@TODO table p37
+todo - table p37
 
 Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
 
