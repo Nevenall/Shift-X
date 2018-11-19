@@ -20,7 +20,7 @@ const source = ['**/*.md', '!node_modules/**', '!tools/**']
 const assetPath = ['assets/**']
 const destination = 'html/'
 const destinationGlob = 'html/**'
-const publishTarget = "c:/temp/forkandwrite"
+const publishTarget = "c:/src/bookshelf-shift-x/src/pages"
 
 function render() {
    return src(source)
