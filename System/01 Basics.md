@@ -26,10 +26,9 @@ The GM helps organize the conversation of the game so it’s pointed toward the 
 
 ## Playing A Session
 
-A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences where the team confronts a
-There are one or two main events, plus maybe some side-story elements, which all fit into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
+A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences linked by transitional scene which fit into an overall event, which in turn fits into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
-During a session, the crew of scoundrels works together to choose a score to accomplish, then they make a few dice rolls to jump into the action of the score in progress. The PCs take actions, suffer consequences, and finish the operation (succeed or fail). Then the crew has downtime, during which they recover, pursue side-projects, and indulge their vices. After downtime, the players once again look for a new opportunity or create their own goals and pursuits, and we play to find out what happens next.
+During a session, the team of heroes work together to discover a villain's next move and try to stop them. The GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into action. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or aquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
 
 ## The Core System
 
