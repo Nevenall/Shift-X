@@ -12,21 +12,22 @@ The players work together with the Game Master to establish the tone and style o
 
 ## The Characters
 
-The characters attempt to develop relationships with each other and develop their superteam, while using their powers to stop threats.
+The characters attempt to develop their team and their relationships with each other while using their powers to stop all kinds of threats.
 
 ## The Team
 
-In addition to creating characters, you’ll also create the crew by choosing which type of criminal enterprise you’re interested in exploring.
+In addition to creating characters, you’ll also create a super team. 
 
 ## The Game Master
 
-The GM establishes the dynamic world around the characters. The GM plays all the non-player characters in the world by giving each one a concrete desire and preferred method of action.
+The GM establishes the dynamic world around the characters. The GM plays all the villains and non-player characters in the world by giving each one a concrete desire and preferred method of action.
 
 The GM helps organize the conversation of the game so it’s pointed toward the interesting elements of play. The GM isn’t in charge of the story and doesn’t have to plan events ahead of time. They present interesting opportunities to the players, then follow the chain of action and consequences wherever they lead.
 
 ## Playing A Session
 
-A session of *Blades in the Dark* is like an episode of a TV show. There are one or two main events, plus maybe some side-story elements, which all fit into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
+A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences where the team confronts a
+There are one or two main events, plus maybe some side-story elements, which all fit into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
 During a session, the crew of scoundrels works together to choose a score to accomplish, then they make a few dice rolls to jump into the action of the score in progress. The PCs take actions, suffer consequences, and finish the operation (succeed or fail). Then the crew has downtime, during which they recover, pursue side-projects, and indulge their vices. After downtime, the players once again look for a new opportunity or create their own goals and pursuits, and we play to find out what happens next.
 
