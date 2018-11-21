@@ -63,16 +63,17 @@ There are four types of rolls that you’ll use most often in the game:
 - {Downtime Roll}​—When the PCs are at their leisure after an event they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
 - {Fortune Roll}​—The GM can make a fortune roll to disclaim decision making and leave something up to chance. *How loyal is an NPC? How much does the plague spread? How many hostages escape before the villain's thugs catch you?*
 - {Resistance Roll}​—A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. *When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead.*
+- {Relationship Roll}​—Players can test their relationships to recover stress and attempt to strengthen their connection.
 
 ### The Game Structure
 
 *Shift-X* has a structure to play. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
 
-When the group is ready, they choose a *target* for their next operation, then choose a type of *plan* to employ. This triggers the *engagement roll* (which establishes the situation as the operation starts) and then the game shifts into the **score** phase.
+When the group is ready, the GM will describe a villain's first move and make a **villainy roll** for the **instigating event** and the game shifts into the **event** phase. 
 
-During the score, the PCs engage the target—they make rolls, overcome obstacles, call for flashbacks, and complete the operation (successfully or not). When the score is finished, the game shifts into the **downtime** phase.
+During the event the game alternates between **action sequences**​—where the heroes put themselves in the way of the villain's plan and make rolls, overcome ostacles, and call for flashbacks​—and **transition scenes** where the PCs use their relationships to recover stress and take gather information to help them find and fight the villain.
 
-During the downtime phase, the GM engages the systems for *payoff*, *heat*, and *entanglements*, to determine all the fallout from the score. Then the PCs each get their *downtime activities*, such as indulging their vice to remove stress or working on a long-term project. When all the downtime activities are complete, the game returns to **free play** and the cycle starts over again.
+Once the climactic action scequence is over and the event resolved, the game shifts to the **downtime** phase. Here the heroes get their **downtime activities** such as training, strengthening relationships, or working on a long-term project. Once downtime activties are done the game returns to **free play**.
 
 The phases are a conceptual model to help you organize the game. They’re not meant to be rigid structures that restrict your options (this is why they’re presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you’re trying to accomplish in play. Each phase suits a different goal.
 
@@ -96,7 +97,7 @@ There are 11 **actions** in the game that the player characters use to overcome 
 - Wreck
 :::
 
-Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. <!--todo - rewrite for shift-x -->
+Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. Your **powers**, however, are separate from your action ratings. You may describe your character making use of their powers, or not, when you perform an action. 
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
@@ -110,15 +111,15 @@ If there’s no danger or trouble at hand, you don’t make an action roll. You 
 
 There are three **attributes** in the game system that the player characters use to resist bad consequences: {Insight}, {Prowess}, and {Resolve}. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
-The rating for each attribute is equal to the number of dots in the **first column** under that attribute (see the examples, at right). The more well-rounded your character is with a particular set of actions, the better their attribute rating.
+The rating for each attribute is equal to the number of dots in the **first column** under that attribute. The more well-rounded your character is with a particular set of actions, the better their attribute rating.
 
-Hero Rule: heroes get 1 free dot of {Resolve}.
+There is one exception here and that is the **Hero Rule**. All of the PCs have choosen to be heroes and face constant danger so they get their first dot of {Resolve} for free.
 
 ### Resistance Roll
 
 Each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with your {Prowess} rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll, the less **stress** it costs to reduce or avoid the danger.
 
-When the enemy has a big advantage, you’ll need to make a resistance roll before you can take your own action. For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to {Attune} with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.
+When the enemy has a big advantage, you’ll need to make a resistance roll before you can take your own action. <!--todo-shift-x examples-->*For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to {Attune} with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.*
 
 The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 

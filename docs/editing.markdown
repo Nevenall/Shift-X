@@ -76,3 +76,10 @@ there is still intro material though. Characters and sheets and how to roll stuf
 
 
 That's pretty good. 
+
+## setting specificity 
+
+the srd is pretty generic in it's examples, especially at first. the question is how much of the Shift-X superhero setting should we make a part of the manuscript? I feel like it's the most interesting to put in lots of the setting, but then again, it's not to everyone's taste. It's very much the apocalypse world thing. we'll not quite. some people just didn't like the voice of the book, not the setting details, as such. 
+I'm an, embrace the voice of the setting, kind of guy. What other way is there to be really?
+
+So, shift-x details and characters abound. Of course, shift-x is not even close to entirely my creation. Which brings up...other thoughts about the setting. mmm...well, it's a thing I should talk about with the other dudes if I'm going to license their characters under Creative Commons.  
