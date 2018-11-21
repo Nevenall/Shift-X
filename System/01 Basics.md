@@ -26,9 +26,9 @@ The GM helps organize the conversation of the game so it’s pointed toward the 
 
 ## Playing A Session
 
-A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences linked by transitional scene which fit into an overall event, which in turn fits into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
+A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences linked by transitional scene which fit into an overall event, which often fits, in turn, into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
-During a session, the team of heroes work together to discover a villain's next move and try to stop them. The GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into action. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or aquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
+During a session, the team of heroes work together to discover a villain's next move and the GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into an action sequence. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or aquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
 
 ## The Core System
 
@@ -36,36 +36,37 @@ During a session, the team of heroes work together to discover a villain's next 
 
 When you play, you’ll make several key judgment calls. Everyone contributes, but either the players or the GM gets final say for each:
 
-* Which actions are reasonable as a solution to a problem? *Can this person be swayed? Must we get out the tools and tinker with this old rusty lock, or could it also be quietly finessed?* The players have final say.
-* How dangerous and how effective is a given action in this circumstance? *How risky is this? Can this person be swayed very little or a whole lot?* The GM has final say.
-* Which consequences are inflicted to manifest the dangers in a given circumstance? *Does this fall from the roof break your leg? Do the constables merely become suspicious or do they already have you trapped?* The GM has final say.
-* Does this situation call for a dice roll, and which one? *Is your character in position to make an action roll or must they first make a resistance roll to gain initiative?* The GM has final say.
-* Which events in the story match the experience triggers for character and crew advancement? *Did you express your character’s beliefs, drives, heritage, or background? You tell us.* The players have final say.
+- Which actions are reasonable as a solution to a problem? *Can this person be swayed? Can we {Trace} this villain through the device they left behind or do we need to get out the {Tech} tools?* The players have final say.
+- How dangerous and how effective is a given action in this circumstance? *How risky is this? Can this person be swayed very little or a whole lot? How much harm will your lighting attack inflict on this villain?* The GM has final say.
+- Which consequences are inflicted to manifest the dangers in a given circumstance? *Does this fall from the roof break your leg? Does the villain merely become suspicious or do they already have you trapped?* The GM has final say.
+- Does this situation call for a dice roll, and which one? *Is your character in position to make an action roll or must they first make a resistance roll to gain initiative?* The GM has final say.
+- Which events in the story match the experience triggers for character and crew advancement? *Did you express your character’s beliefs, drives, origin, or background? You tell us.* The players have final say.
 
 ### Rolling the Dice
 
-*Blades in the Dark* uses six-sided dice. You roll several at once and read the **single highest result**.
+*Shift-X* uses six-sided dice. You roll several at once and read the **single highest result**.
 
-* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical** success**—you gain some additional advantage.
-* If the highest die is a **4 or 5**, that’s a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
-* If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
+- If you roll more than one **6**, it’s a **critical success**​—you gain some additional advantage.
+- If the highest die is a **6**, it’s a **full success**​—things go well. 
+- If the highest die is a **4 or 5**, that’s a **partial success**​—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
+- If the highest die is **1-3**, it’s a **bad outcome**. Things don't go as you expected. In some cases you might still achieve your goals, but either way their will be complications.
 
 *If you ever need to roll but you have zero (or negative) dice, roll two dice and take the single lowest result. You can’t roll a **critical** when you have zero dice.*
 
-All the dice systems in the game are expressions of this basic format. When you’re first learning the game, you can always “collapse” back down to a simple roll to judge how things go. Look up the exact rule later when you have time.
+All the dice systems in the game are expressions of this basic format. When you’re first learning the game, you can always fall back to a simple roll to judge how things go. Look up the exact rule later when you have time.
 
-To create a dice pool for a roll, you’ll use a **trait** (like your {Finesse} or your {Prowess} or your crew’s Tier) and take dice equal to its **rating**. You’ll usually end up with one to four dice. Even one die is pretty good in this game—a 50% chance of success. The most common traits you’ll use are the **action ratings** of the player characters. A player might roll dice for their {Skirmish} action rating when they fight an enemy, for example.
+To create a dice pool for a roll, you’ll use a **trait** (like your {Acrobatics} or your {Prowess} or one of your Relationships) and take dice equal to its **rating**. You’ll usually end up with one to four dice. Even one die is pretty good in this game—giving a 50% chance of success. The most common traits you’ll use are the **action ratings** of the player characters. A player might roll dice for their {Fight} action rating when they fight an enemy, for example.
 
 There are four types of rolls that you’ll use most often in the game:
 
-* {Action roll. }When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.
-* {Downtime roll. }When the PCs are at their leisure after a job, they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
-* {Fortune roll. }The GM can make a fortune roll to disclaim decision making and leave something up to chance. *How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?*
-* {Resistance roll. }A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. *When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead.*
+- {Action Roll}​—When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.
+- {Downtime Roll}​—When the PCs are at their leisure after an event they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
+- {Fortune Roll}​—The GM can make a fortune roll to disclaim decision making and leave something up to chance. *How loyal is an NPC? How much does the plague spread? How many hostages escape before the villain's thugs catch you?*
+- {Resistance Roll}​—A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. *When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead.*
 
 ### The Game Structure
 
-*Blades in the Dark* has a structure to play, with four parts. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
+*Shift-X* has a structure to play. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
 
 When the group is ready, they choose a *target* for their next operation, then choose a type of *plan* to employ. This triggers the *engagement roll* (which establishes the situation as the operation starts) and then the game shifts into the **score** phase.
 
@@ -79,24 +80,23 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 ### Action Ratings
 
-There are 12 **actions** in the game that the player characters use to overcome obstacles.
+There are 11 **actions** in the game that the player characters use to overcome obstacles.
 
 ::: columns
-* Attune
-* Command
-* Consort
-* Finesse
-* Hunt
-* Prowl
-* Skirmish
-* Study
-* Survey
-* Sway
-* Tinker
-* Wreck
+- Acrobatics
+- Command
+- Fight
+- Know
+- Move
+- Socialize
+- Spy
+- Sway
+- Tech
+- Trace
+- Wreck
 :::
 
-Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
+Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. <!--todo - rewrite for shift-x -->
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
@@ -111,6 +111,8 @@ If there’s no danger or trouble at hand, you don’t make an action roll. You 
 There are three **attributes** in the game system that the player characters use to resist bad consequences: {Insight}, {Prowess}, and {Resolve}. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
 The rating for each attribute is equal to the number of dots in the **first column** under that attribute (see the examples, at right). The more well-rounded your character is with a particular set of actions, the better their attribute rating.
+
+Hero Rule: heroes get 1 free dot of {Resolve}.
 
 ### Resistance Roll
 
