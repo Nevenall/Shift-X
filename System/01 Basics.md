@@ -113,38 +113,38 @@ There are three **attributes** in the game system that the player characters use
 
 The rating for each attribute is equal to the number of dots in the **first column** under that attribute. The more well-rounded your character is with a particular set of actions, the better their attribute rating.
 
-There is one exception here and that is the **Hero Rule**. All of the PCs have choosen to be heroes and face constant danger so they get their first dot of {Resolve} for free.
+The **hero rule** is an exception. All PCs have *chosen* to become heroes and face the constant dangers of that choice, therefore they receive their first dot of {Resolve} for free.
 
 ### Resistance Roll
 
-Each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with your {Prowess} rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll, the less **stress** it costs to reduce or avoid the danger.
+Each attribute resists a different type of danger. If you get punched, for example, you'll resist with your {Prowess} rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll the less **stress** it costs to reduce or avoid the danger.
 
-When the enemy has a big advantage, you’ll need to make a resistance roll before you can take your own action. <!--todo-shift-x examples-->*For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to {Attune} with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.*
+When the enemy has a big advantage, like a villian more powerful then you, you’ll need to make a resistance roll before you can take your own action. *For example, when you fight the Speedster, Slapdash, she handcuffs you before you even see her coming. You need to make a resistance roll to avoid the restraints and be in a position to fight back. Or perhaps you attempt to {Spy} on a powerful mentalist but before you can make your own roll, you must resist their uncanny mental detection .*
 
-The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
+The GM judges the threat level of the enemies and uses these "obstacle" resistance rolls as needed to reflect the capabilities of especially dangerous villains.
 
 <!-- todo - make a link. For details on **Resistance Rolls**, see page 28.  -->
 <!-- todo - Add table from page 9. -->
 
 ### Actions
 
-When you {Attune}, you open your mind to arcane power.
+When you use {Acobatics}, you maneuver with dexterous flips and tumbles.
 
-*You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but Surveying might be better).*
+*You might flip into a better position behind a thug. You could try to suprise a foe with a gymnastic maneuver (but {Fight} might be better)*
 
-When you {Command}, you compel swift obedience.
+When you {Command}, you inspire obedience.
 
-*You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but Consorting might be better).*
+*You might inspire confidence in others to get what you want. You might lead a cohort in a group action. You could try to order people around to persuade them (but {Swaying} might be better).*
 
-When you {Consort}, you socialize with friends and contacts.
+When you {Fight}, you overpower foes with ranged attacks and in close quarters combat.
 
-*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but Sway might be better).*
+*You might brawl or wrestle with them; use your lighting powers to electrify them. You might seize or hold a position in battle. You could try to fight to destroy a villain's tech (but Wrecking might be better).*
 
-When you {Finesse}, you employ dextrous manipulation or subtle misdirection.
+When you {Know}, you use research and your accumulated knowledge to unravel mysteries.
 
-*You might pick someone’s pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but Tinkering might be better).*
+*You might know an important detail about a villain's background or dig through a mess of data to discover where their lair is. You could try knowing how to operate some alien technology (but Tech might be better).*
 
-When you {Hunt}, you carefully track a target.
+When you {Move}, you pursue foes or move a fight to a more fortuitous location.
 
 *You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but Skirmishing might be better).*
 
