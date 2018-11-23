@@ -132,43 +132,43 @@ When you use {Acobatics}, you maneuver with dexterous flips and tumbles.
 
 *You might flip into a better position behind a thug. You could try to suprise a foe with a gymnastic maneuver (but {Fight} might be better)*
 
-When you {Command}, you inspire obedience.
+When you {Command}, you inspire others to follow.
 
 *You might inspire confidence in others to get what you want. You might lead a cohort in a group action. You could try to order people around to persuade them (but {Swaying} might be better).*
 
 When you {Fight}, you overpower foes with ranged attacks and in close quarters combat.
 
-*You might brawl or wrestle with them; use your lighting powers to electrify them. You might seize or hold a position in battle. You could try to fight to destroy a villain's tech (but Wrecking might be better).*
+*You might brawl or wrestle with them; use your lighting powers to electrify them. You might seize or hold a position in battle. You could try to fight to destroy a villain's tech (but {Wrecking} might be better).*
 
-When you {Know}, you use research and your accumulated knowledge to unravel mysteries.
+When you {Know}, you use research and accumulated knowledge to unravel mysteries.
 
-*You might know an important detail about a villain's background or dig through a mess of data to discover where their lair is. You could try knowing how to operate some alien technology (but Tech might be better).*
+*You might know an important detail about a villain's background or dig through a mess of satallite data to discover where their lair is. You could try {Knowing} how to operate some alien technology (but {Tech} might be better).*
 
-When you {Move}, you pursue foes or move a fight to a more fortuitous location.
+When you {Move}, you pursue foes or move a fight to another location.
 
-*You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but Skirmishing might be better).*
+*You might race a villain to a vulnerable civilian. You might maneuver a melee to the edge of a roof top. You could try to {Move} passed some guards undetected (but {Spy} might be better).*
 
-When you {Prowl}, you traverse skillfully and quietly.
+When you {Socialize}, you mingle and make friends.
 
-*You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but Skirmishing might be better).*
+*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your background. You could try to manipulate your friends with social pressure (but {Sway} might be better).*
 
-When you {Skirmish}, you entangle a target in close combat so they can’t easily escape.
+When you {Spy}, you use tradecraft and situational awareness to infiltrate, gather, and analyze intellegence.
 
-*You might brawl or wrestle with them. You might hack and slash. You might seize or hold a position in battle. You could try to fight in a formal duel (but Finessing might be better).*
-
-When you {Study}, you scrutinize details and interpret evidence.
-
-*You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but Surveying might be better).*
-
-When you {Survey}, you observe the situation and anticipate outcomes.
-
-*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but Hunting might be better).*
+*You might eavesdrop on a villain. You might perform a subtle interogation of a suspect, or intently read them to tell if they are lying. You might by-pass a buildings security measures. You might also spot an ambush. You might charm someone by {Spying} out what they want you be. (But {Socialize} or {Sway} might be better).*
 
 When you {Sway}, you influence with guile, charm, or argument.
 
+*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but {Socializing} or {Commanding} might be better).*
+
+When you {Tech}, you .
+
+*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but Hunting might be better).*
+
+When you {Trace}, you influence with guile, charm, or argument.
+
 *You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better).*
 
-When you {Tinker}, you fiddle with devices and mechanisms.
+When you {Wreck}, you fiddle with devices and mechanisms.
 
 *You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but Finessing might be better).*
 
