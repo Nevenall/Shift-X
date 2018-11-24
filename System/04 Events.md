@@ -178,7 +178,7 @@ Teamwork maneuvers are options, not requirements. Each character can still perfo
 
 *Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.*
 
-In *Blades in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
+In *Shift-X*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
 
 A score is a single operation with a particular goal: *burgle a Lord’s manor, assassinate the diplomat, smuggle a strange artifact into the city*, etc. Usually, a score will fall into one of three categories:
 

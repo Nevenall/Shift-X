@@ -119,7 +119,7 @@ The **hero rule** is an exception. All PCs have *chosen* to become heroes and fa
 
 Each attribute resists a different type of danger. If you get punched, for example, you'll resist with your {Prowess} rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll the less **stress** it costs to reduce or avoid the danger.
 
-When the enemy has a big advantage, like a villian more powerful then you, you’ll need to make a resistance roll before you can take your own action. *For example, when you fight the Speedster, Slapdash, she handcuffs you before you even see her coming. You need to make a resistance roll to avoid the restraints and be in a position to fight back. Or perhaps you attempt to {Spy} on a powerful mentalist but before you can make your own roll, you must resist their uncanny mental detection .*
+When the enemy has a big advantage, like a villian more powerful then you, you’ll need to make a resistance roll before you can take your own action. *For example, when you fight the Speedster, Slapdash, she handcuffs you before you even see her coming. You need to make a resistance roll to avoid the restraints and be in a position to fight back. Or perhaps you attempt to {Spy} on a powerful mentalist but before you can make your own roll, you must resist their uncanny mental detection.*
 
 The GM judges the threat level of the enemies and uses these "obstacle" resistance rolls as needed to reflect the capabilities of especially dangerous villains.
 
@@ -160,76 +160,72 @@ When you {Sway}, you influence with guile, charm, or argument.
 
 *You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but {Socializing} or {Commanding} might be better).*
 
-When you {Tech}, you .
+When you {Tech}, you employ science and skill against obstacles and devices.
 
-*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person’s motivations or intentions. You could try to spot a good ambush point (but Hunting might be better).*
+*You might create a new gadget or alter an existing item. You might build and program a computer. You might provide first aid to a civilan who got caught in cross-fire. You might also control a vehicle. You could try to use your technical expertise to destoy a device (but {Wreck} might be better).*
 
-When you {Trace}, you influence with guile, charm, or argument.
+When you {Trace}, you find and follow targets.
 
-*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better).*
-
-When you {Wreck}, you fiddle with devices and mechanisms.
-
-*You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but Finessing might be better).*
+*You might follow a target to their hideout. You might follow a paper trail to find out the same thing. You might also hide whereabouts as well. You might {Trace} to learn how someone thinks (but {Spy} might be better).*
 
 When you {Wreck}, you unleash savage force.
 
-*You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better).*
+*You might smash down a door or wall with you super-strength. You might employ chaos and sabotage to create a distraction or overcome an obstacle. You might break an armored foe's jet boots. You could try to overwhelm an enemy with sheer force in battle (but {Fighting} might be better).*
 
-As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to {Wreck} someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, {Skirmish} *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
+As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to {Wreck} someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, {Fight} might be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
 
 ## Stress & Trauma
 
 ### Stress
 
-Player characters in *Blades in the Dark* have a special reserve called **stress**. When they suffer a consequence that they don’t want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
+Player characters in *Shift-X* have a special resource called **stress**. When they suffer a consequence they don’t want to accept, they can take stress instead. The result of a **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-*During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
+> During a fight, Daniel’s character, Shadow, gets blasted in the chest by concentrated cosmic light. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Shadow survives.
 
-*The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm (“Chest Wound”) instead of level 3 harm (“Punctured Lung”).*
+> Because Shadow's powers are based on darkness and the attack was concentrated light, The GM rules that the harm is reduced, but not avoided entirely. Shadow suffers level 2 harm (“Chest Burns”) instead of level 3 harm (“Collapsed Lung”).
 
 ### Pushing Yourself
 
 You can use stress to push yourself for greater performance. For each bonus you choose below, take **2 stress** (each can be chosen once for a given action):
 
-* Add **+1d** to your roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you)
-* Add **+1 level** to your effect.
-* Take action when you’re incapacitated.
+- Add **+1d** to your roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you)
+- Add **+1 level** to your effect.
+- Take action when you’re incapacitated.
 
 ### Trauma
 
-When a PC marks their last stress box, they suffer a level of {trauma}. When you take {trauma}, circle one of your **trauma conditions** like *Cold*, *Reckless*, *Unstable*, etc. They’re all described on the next page.
+When a PC marks their last stress box, they suffer a level of {Trauma}. When you take {Trauma}, circle one of your **trauma conditions** like *Isolated*, *Reckless*, *Unstable*, etc. They’re all described on the next page.
 
-When you suffer {trauma}, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained. When you return, **you have zero stress** and your vice has been satisfied for the next downtime.
+When you suffer {Trauma}, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained and with **0 stress taken**.
 
-**Trauma conditions are permanent**. Your character acquires the new personality quirk indicated by the condition, and can earn xp by using it to cause trouble. **When you mark your fourth trauma condition**, your character cannot continue as a daring scoundrel. You must retire them to a different life or send them to prison to take the fall for the crew’s {wanted level}.
+**Trauma conditions are permanent**. Your character acquires the new personality quirk indicated by the condition, and can earn xp by using it to cause trouble. **When you mark your fourth trauma condition**, your character cannot continue to face the dangers of being a hero and you must retire them to a different life.
 
 #### Trauma Conditions
 
-* {Cold}: You’re not moved by emotional appeals or social bonds.
-* {Haunted}: You’re often lost in reverie, reliving past horrors, seeing things.
-* {Obsessed}: You’re enthralled by one thing: an activity, a person, an ideology.
-* {Paranoid}: You imagine danger everywhere; you can’t trust others.
-* {Reckless}: You have little regard for your own safety or best interests.
-* {Soft}: You lose your edge; you become sentimental, passive, gentle.
-* {Unstable}: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
-* {Vicious}: You seek out opportunities to hurt people, even for no good reason.
+- {Addicted} You habitiually seek comfort in a troublesome activity or sustance.
+- {Haunted} You’re often lost in reverie, reliving past failures, seeing things.
+- {Isolated} You deliberately avoid emotional appeals and social bond.
+- {Obsessed} You’re enthralled by one thing: an activity, a person, an ideology.
+- {Paranoid} You imagine danger everywhere; you can’t trust others.
+- {Reckless} You have little regard for your own safety or best interests.
+- {Unstable} Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
+- {Vicious} You live for the moments when you can use your powers to hurt or humiliate your foes.
 
 ## Progress clocks
 
-A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
+A **progress clock** is a circle divided into segments. Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
 <!-- todo - add clock illustration -->
 
-*Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.*
+*Sneaking into the villain's lair? Make a clock to track the alert level of the security. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.*
 
 Generally, the more complex the problem, the more segments in the progress clock.
 
 A complex obstacle is a 4-segment clock. A more complicated obstacle is a 6-clock. A daunting obstacle is an 8-segment clock.
 
-When you create a clock, make it about the **obstacle,** not the method. The clocks for an infiltration should be “Interior Patrols” and “The Tower,” not “Sneak Past the Guards” or “Climb the Tower.” The patrols and the tower are the obstacles&#173;—the PCs can attempt to overcome them in a variety of ways.
+When you create a clock, make it about the **obstacle**, not the method. The clocks for an infiltration should be “Security Patrols” and “The Elevator Shaft”, not “Sneak Past the Security or “Climb the Shaft.” The patrols and the shaft are the obstacles—the PCs can attempt to overcome them in a variety of ways.
 
-Complex enemy threats can be broken into several “layers,” each with its own progress clock. For example, the dockside gangs’ HQ might have a “Perimeter Security” clock, an “Interior Guards” clock, and a “Office Security” clock. The crew would have to make their way through all three layers to reach the gang boss’ personal safe and valuables within.
+Complex enemy threats can be broken into several “layers,” each with its own progress clock. <!-- todo - shift-x example -- For example, the dockside gangs’ HQ might have a “Perimeter Security” clock, an “Interior Guards” clock, and a “Office Security” clock. The crew would have to make their way through all three layers to reach the gang boss’ personal safe and valuables within.-->
 
 Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they’re doing. A clock is like a speedometer in a car. It *shows* the speed of the vehicle—it doesn’t determine the speed.
 
@@ -241,25 +237,25 @@ Examples of progress clocks follow.
 
 ### Danger Clocks
 
-The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+The GM can use a clock to represent a progressive danger, like suspicion growing during a conversation, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
 ### Racing Clocks
 
-Create two opposed clocks to represent a race. The PCs might have a progress clock called “Escape” while the constables have a clock called “Cornered.” If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they’re cornered and can’t flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
+Create two opposed clocks to represent a race. The PCs might have a progress clock called “Cornered” while the villain has a clock called “Escaped.” If the PCs finish their clock before the villain fills their's the PCs have their quarry cornered so the villain can't escape. Otherwise, the villain has escaped for now. If both complete at the same time, the villain escape to their lair, but the PCs are right outside!
 
-You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the “Search” clock to find the lockbox on the sinking ship before the GM fills the “Sunk” clock and the vessel goes down.
+You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the “Search” clock to find the blackbox on a sinking airliner before the GM fills the “Sunk” clock and the vessel goes under.
 
 ### Linked Clocks
 
-You can make a clock that unlocks another clock once it’s filled. For example, the GM might make a linked clock called “Trapped” after an “Alert” clock fills up. When you fight a veteran warrior, she might have a clock for her “Defense” and then a linked clock for “Vulnerable.” Once you overcome the “Defense” clock, then you can attempt to overcome the “Vulnerable” clock and defeat her.  You might affect the “Defense” clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
+You can make a clock that unlocks another clock once it’s filled. For example, the GM might make a linked clock called “Trapped” after an “Alert” clock fills up. When you fight an alien warrior, she might have a clock for her “Defense” and then a linked clock for “Vulnerable.” Once you overcome the “Defense” clock, then you can attempt to overcome the “Vulnerable” clock and defeat her. You might affect the “Defense” clock with violence in a fight, or you might lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
 
 ### Mission Clocks
 
-The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the household wakes up for the day, etc.
+The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the bomb goes off, etc.
 
 ### Tug-of-war Clocks
 
-You can make a clock that can be filled *and* emptied by events, to represent a back-and-forth situation. You might make a “Revolution!” clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
+You can make a clock that can be filled *and* emptied to represent a back-and-forth situation. You might make a “Fight Back!” clock that indicates when them mutants start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the mutants start taking decisive actions against a authorities. A tug-of-war clock is also perfect for an ongoing conflict between two factions.
 
 ### Long-term Project
 
@@ -267,36 +263,36 @@ Some projects will take a long time. A basic long-term project (like tinkering u
 
 A long-term project is a good catch-all for dealing with any unusual player goal, including things that circumvent or change elements of the mechanics or the setting.
 
-### Faction Clocks
+### Agenda Clocks
 
-Each faction has a long-term goal. When the PCs have **downtime**, the GM ticks forward the faction clocks that they’re interested in. In this way, the world around the PCs is dynamic and things happen that they’re not directly connected to, changing the overall situation in the city and creating new opportunities and challenges.
+Organizations and off-screen villains can have long-term goals as well. Like an eight segment clock to "Escape Prison," or "Research Captured Alien Tech." When the PCs have **downtime**, the GM ticks forward the agenda clocks that they’re interested in. In this way, the world around the PCs is dynamic and things happen that they’re not directly connected to, changing the overall situation in the city and creating new opportunities and challenges.
 
-The PCs may also directly affect NPC faction clocks, based on the missions and scores they pull off. Discuss known faction projects that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.
+The PCs may also directly affect NPC agenda clocks, based on how what they do. Discuss known agendas that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.
 
 ## Action Roll
 
-When a player character does something challenging, we make an **action roll** to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
+When a player character does something challenging, make an **action roll** to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
 
-*Each game group will have their own ideas about what “challenging” means. This is good! It’s something that establishes the tone and style of your Blades series.*
+*Each game group will have their own ideas about what “challenging” means. This is good! It’s something that establishes the tone and style of your game.*
 
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
 
 1. The player states their **goal** for the action.
-1. The player chooses the **action rating**.
+1. The player chooses the **action rating** and wether or not they want to use their super powers.
 1. The GM sets the **position** for the roll.
 1. The GM sets the **effect level** for the action.
 1. Add **bonus dice**.
-1. The player rolls the dice** and we judge the result.
+1. The player **rolls the dice** and we judge the result.
 
 ### 1. The Player States Their Goal
 
 Your goal is the concrete outcome your character will achieve when they overcome the obstacle at hand. Usually the character’s goal is pretty obvious in context, but it’s the GM’s job to ask and clarify the goal when necessary.
 
-*“You’re punching him in the face, right? Okay... what do want to get out of this? Do you want to take him out, or just rough him up so he’ll do what you want?”*
+> "You’re punching him in the face? Okay...what do want to get out of this? Do you want to take him out, or just rough him up so he’ll do what you want?”
 
 ### 2. The Player Chooses the Action Rating
 
-The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your {Skirmish} action, then get in a fight. If you want to roll your {Command} action, then order someone around. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
+The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your {Fight} action, then get in a fight. If you want to roll your {Command} action, then inspire someone to follow you. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
 
 ### 3. The GM Sets the Position
 
@@ -304,11 +300,19 @@ Once the player chooses their action, the GM sets the **position** for the roll.
 
 **By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
 
+:::table
+             |
+------------:|---
+{Controlled} | You have a golden opportunity. You’re exploiting a dominant advantage. You’re set up for success.
+{Risky}      | You go head to head. You’re acting under duress. You’re taking a chance.
+{Desperate}  | You’re in serious trouble. You’re overreaching your capabilities. You’re attempting a dangerous maneuver.
+:::
+
 ### 4. The GM Sets the Effect Level
 
 The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us “how much” this action can accomplish: will it have **limited**, **standard**, or **great** effect?
 
-*The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating. If a player wants to try to make a new friend by {Wrecking} something—well... maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like {Consorting} would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or potent.*
+*The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating and the relative threat levels of the powers involved. If a player wants to try to make a new friend by {Wrecking} something well...maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like {Socializing} would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or effective.*
 
 ### 5. Add Bonus Dice
 
@@ -320,15 +324,14 @@ For another bonus die, you can either **push yourself** (take 2 stress) or you c
 
 #### The Devil’s Bargain
 
-PCs in *Blades* are reckless scoundrels addicted to destructive vices—they don’t always act in their own best interests. To reflect this, the GM or any other player can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
+PCs in *Shift-X* are daring heroes with powerful abilities they don't always have perfect control over. To reflect this, the GM or any other player can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
 
-* Collateral damage, unintended harm.
-* Sacrifice {coin} or an item.
-* Betray a friend or loved one.
-* Offend or anger a faction.
-* Start and/or tick a troublesome clock.
-* Add {heat} to the crew from evidence or witnesses.
-* Suffer harm.
+- Collateral damage, unintended harm.
+- Sacrifice an item.
+- Betray the target of a relationship.
+- Offend or anger an organization.
+- Start and/or tick a troublesome clock.
+- Suffer harm.
 
 The Devil’s Bargain occurs regardless of the outcome of the roll. You make the deal, pay the price, and get the bonus die.
 
@@ -340,36 +343,42 @@ If it’s ever needed, the GM has final say over which Devil’s Bargains are va
 
 Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
 
-The action roll does a lot of work for you. It tells you how well the character performs as well as how serious the consequences are for them. They might succeed at their action without any consequences (on a {6}), or they might succeed but suffer consequences (on a {4/5}), or it might just all go wrong (on a {1-3}).
+The action roll does a lot of work for you. It tells you how well the character performs as well as how serious the consequences are for them. They might succeed at their action without any consequences (on a **6**), or they might succeed but suffer consequences (on a **4/5**), or it might just all go wrong (on a **1-3**).
 
-On a {1-3}, it’s up to the GM to decide if the PC’s action has any effect or not, or if it even happens at all. Usually, the action just fails completely, but in some circumstances, it might make sense or be more interesting for the action to have some effect even on a {1-3} result.
+On a **1-3**, it’s up to the GM to decide if the PC’s action has any effect or not, or if it even happens at all. Usually, the action just fails completely, but in some circumstances, it might make sense or be more interesting for the action to have some effect even on a **1-3** result. The players are, after all, competent super heroes.
 
-Each {4/5} and {1-3} outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
+Each **4/5** and **1-3** outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
 
-When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the Inspector to convince her. The GM will tell us how she reacts. When you face the Red Sash duelist, what’s your fighting style like? Etc.*
+When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the chief of police to convince her. The GM will tell us how she reacts. When you face the ninja dualist, what’s your fighting style like? Etc.*
 
 ### Action Roll Summary
 
-* A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
-* The player chooses the **action rating** to roll. Choose the action that matches what the character is doing in the fiction.
-* The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player’s choice of action.
-* Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
-* Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
+- A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
+- The player chooses the **action rating** to roll and powers they will use. Choose the action that matches what the character is doing in the fiction.
+- The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player’s choice of action and powers.
+- Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
+- Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
 ### Double-duty Rolls
 
-Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a {6}, the PC wins and has their effect. On a {4/5}, it’s a mix—both the PC and the NPC have their effect. On a {1-3}, the NPC wins and has their effect as a consequence on the PC.
+Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it’s a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
 
 <!-- todo - add Action Roll table p21 -->
 
 ## Effect
 
-In *Blades in the Dark*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand&#173;&#173;—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
+In *Shift-X*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
-<!-- todo - add fancy effect levels p23. -->
+:::table
+Effect   |                                                              | Ticks
+--------:|--------------------------------------------------------------|:---:
+Great    | You achieve more than usual. How does the extra effort manifest? What additional benefit do you enjoy? | 3
+Standard | You achieve what we’d expect as “normal” with this action. Is that enough, or is there more left to do? | 2
+Limited  | You achieve a partial or weak effect. How is your impact diminished? What effort remains to achieve your goal? | 1
+:::
 
 ### Assessing Factors
-
+<!--todo - assessing factors section: this  one takes threat into account. Which -->
 To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
 #### Potency
