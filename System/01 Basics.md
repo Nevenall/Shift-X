@@ -29,7 +29,6 @@ The GM helps organize the conversation of the game so it’s pointed toward the 
 A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences linked by transitional scene which fit into an overall event, which often fits, in turn, into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
 During a session, the team of heroes work together to discover a villain's next move and the GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into an action sequence. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or aquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
-
 ## The Core System
 
 ### Judgment calls
@@ -174,6 +173,10 @@ When you {Wreck}, you unleash savage force.
 *You might smash down a door or wall with you super-strength. You might employ chaos and sabotage to create a distraction or overcome an obstacle. You might break an armored foe's jet boots. You could try to overwhelm an enemy with sheer force in battle (but {Fighting} might be better).*
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to {Wreck} someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, {Fight} might be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
+
+## Powers & Threat
+
+*Shift-X* is about heroes with dangerous and powerful abilities. 
 
 ## Stress & Trauma
 
