@@ -123,8 +123,9 @@ When the enemy has a big advantage, like a villian more powerful then you, you�
 
 The GM judges the threat level of the enemies and uses these "obstacle" resistance rolls as needed to reflect the capabilities of especially dangerous villains.
 
-<!-- todo - make a link. For details on **Resistance Rolls**, see page 28.  -->
-<!-- todo - Add table from page 9. -->
+<!-- 
+todo - make a link. For details on **Resistance Rolls**, see page 28.
+- Add table from page 9. -->
 
 ### Actions
 
@@ -215,7 +216,8 @@ When you suffer {Trauma}, you’re taken out of action. You’re “left for dea
 
 A **progress clock** is a circle divided into segments. Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
-<!-- todo - add clock illustration -->
+<!-- 
+todo - add clock illustration -->
 
 *Sneaking into the villain's lair? Make a clock to track the alert level of the security. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.*
 
@@ -225,7 +227,9 @@ A complex obstacle is a 4-segment clock. A more complicated obstacle is a 6-cloc
 
 When you create a clock, make it about the **obstacle**, not the method. The clocks for an infiltration should be “Security Patrols” and “The Elevator Shaft”, not “Sneak Past the Security or “Climb the Shaft.” The patrols and the shaft are the obstacles—the PCs can attempt to overcome them in a variety of ways.
 
-Complex enemy threats can be broken into several “layers,” each with its own progress clock. <!-- todo - shift-x example -- For example, the dockside gangs’ HQ might have a “Perimeter Security” clock, an “Interior Guards” clock, and a “Office Security” clock. The crew would have to make their way through all three layers to reach the gang boss’ personal safe and valuables within.-->
+Complex enemy threats can be broken into several “layers,” each with its own progress clock. 
+<!-- 
+todo - shift-x example -- For example, the dockside gangs’ HQ might have a “Perimeter Security” clock, an “Interior Guards” clock, and a “Office Security” clock. The crew would have to make their way through all three layers to reach the gang boss’ personal safe and valuables within.-->
 
 Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they’re doing. A clock is like a speedometer in a car. It *shows* the speed of the vehicle—it doesn’t determine the speed.
 
@@ -363,7 +367,8 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it’s a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
 
-<!-- todo - add Action Roll table p21 -->
+<!-- 
+todo - add Action Roll table p21 -->
 
 ## Effect
 
@@ -378,14 +383,15 @@ Limited  | You achieve a partial or weak effect. How is your impact diminished? 
 :::
 
 ### Assessing Factors
-<!--todo - assessing factors section: this  one takes threat into account. Which -->
+<!--
+todo - assessing factors section: this one takes threat into account. Which asks the question, do threats and powers need an introduciton earlier. Like along with actions? That's part of the essense of the game. Also we want a good version of the magnitude chart up here with powers. -->
 To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
 #### Potency
 
 The potency factor considers particular weaknesses, taking extra time or a bigger risk, or the influence of arcane powers. An infiltrator is more potent if all the lights are extinguished and they move about in the dark.
 
-#### Quality/Tier
+#### Threat
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 

@@ -63,7 +63,8 @@ That’s it! Your character is ready for play. When you start the first session,
 
 ## Character creation summary
 
-todo -  style dropcaps.
+<!-- 
+todo - style dropcaps. -->
 
 {1} **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
