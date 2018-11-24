@@ -2,7 +2,7 @@
 
 ## The Game
 
-*Shift-X* is about a team of people with extraordinary powers foiling the plans of devious villains while attempting to create and deepen thair personal relationships.  
+*Shift-X* is about a team of people with extraordinary powers foiling the plans of devious villains while attempting to create and deepen their personal relationships.  
 
 ## The Players
 
@@ -28,7 +28,7 @@ The GM helps organize the conversation of the game so it’s pointed toward the 
 
 A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences linked by transitional scene which fit into an overall event, which often fits, in turn, into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
-During a session, the team of heroes work together to discover a villain's next move and the GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into an action sequence. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or aquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
+During a session, the team of heroes work together to discover a villain's next move and the GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into an action sequence. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or acquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
 ## The Core System
 
 ### Judgment calls
@@ -70,9 +70,9 @@ There are four types of rolls that you’ll use most often in the game:
 
 When the group is ready, the GM will describe a villain's first move and make a **villainy roll** for the **instigating event** and the game shifts into the **event** phase. 
 
-During the event the game alternates between **action sequences**​—where the heroes put themselves in the way of the villain's plan and make rolls, overcome ostacles, and call for flashbacks​—and **transition scenes** where the PCs use their relationships to recover stress and take gather information to help them find and fight the villain.
+During the event the game alternates between **action sequences**​—where the heroes put themselves in the way of the villain's plan and make rolls, overcome obstacles, and call for flashbacks​—and **transition scenes** where the PCs use their relationships to recover stress and take gather information to help them find and fight the villain.
 
-Once the climactic action scequence is over and the event resolved, the game shifts to the **downtime** phase. Here the heroes get their **downtime activities** such as training, strengthening relationships, or working on a long-term project. Once downtime activties are done the game returns to **free play**.
+Once the climactic action sequence is over and the event resolved, the game shifts to the **downtime** phase. Here the heroes get their **downtime activities** such as training, strengthening relationships, or working on a long-term project. Once downtime activities are done the game returns to **free play**.
 
 The phases are a conceptual model to help you organize the game. They’re not meant to be rigid structures that restrict your options (this is why they’re presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you’re trying to accomplish in play. Each phase suits a different goal.
 
@@ -118,7 +118,7 @@ The **hero rule** is an exception. All PCs have *chosen* to become heroes and fa
 
 Each attribute resists a different type of danger. If you get punched, for example, you'll resist with your {Prowess} rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll the less **stress** it costs to reduce or avoid the danger.
 
-When the enemy has a big advantage, like a villian more powerful then you, you’ll need to make a resistance roll before you can take your own action. *For example, when you fight the Speedster, Slapdash, she handcuffs you before you even see her coming. You need to make a resistance roll to avoid the restraints and be in a position to fight back. Or perhaps you attempt to {Spy} on a powerful mentalist but before you can make your own roll, you must resist their uncanny mental detection.*
+When the enemy has a big advantage, like a villain more powerful then you, you’ll need to make a resistance roll before you can take your own action. *For example, when you fight the Speedster, Slapdash, she handcuffs you before you even see her coming. You need to make a resistance roll to avoid the restraints and be in a position to fight back. Or perhaps you attempt to {Spy} on a powerful mentalist but before you can make your own roll, you must resist their uncanny mental detection.*
 
 The GM judges the threat level of the enemies and uses these "obstacle" resistance rolls as needed to reflect the capabilities of especially dangerous villains.
 
@@ -128,9 +128,9 @@ todo - make a link. For details on **Resistance Rolls**, see page 28.
 
 ### Actions
 
-When you use {Acobatics}, you maneuver with dexterous flips and tumbles.
+When you use {Acrobatics}, you maneuver with dexterous flips and tumbles.
 
-*You might flip into a better position behind a thug. You could try to suprise a foe with a gymnastic maneuver (but {Fight} might be better)*
+*You might flip into a better position behind a thug. You could try to surprise a foe with a gymnastic maneuver (but {Fight} might be better)*
 
 When you {Command}, you inspire others to follow.
 
@@ -142,7 +142,7 @@ When you {Fight}, you overpower foes with ranged attacks and in close quarters c
 
 When you {Know}, you use research and accumulated knowledge to unravel mysteries.
 
-*You might know an important detail about a villain's background or dig through a mess of satallite data to discover where their lair is. You could try {Knowing} how to operate some alien technology (but {Tech} might be better).*
+*You might know an important detail about a villain's background or dig through a mess of satellite data to discover where their lair is. You could try {Knowing} how to operate some alien technology (but {Tech} might be better).*
 
 When you {Move}, you pursue foes or move a fight to another location.
 
@@ -152,9 +152,9 @@ When you {Socialize}, you mingle and make friends.
 
 *You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your background. You could try to manipulate your friends with social pressure (but {Sway} might be better).*
 
-When you {Spy}, you use tradecraft and situational awareness to infiltrate, gather, and analyze intellegence.
+When you {Spy}, you use tradecraft and situational awareness to infiltrate, gather, and analyze intelligence.
 
-*You might eavesdrop on a villain. You might perform a subtle interogation of a suspect, or intently read them to tell if they are lying. You might by-pass a buildings security measures. You might also spot an ambush. You might charm someone by {Spying} out what they want you be. (But {Socialize} or {Sway} might be better).*
+*You might eavesdrop on a villain. You might perform a subtle interrogation of a suspect, or intently read them to tell if they are lying. You might by-pass a buildings security measures. You might also spot an ambush. You might charm someone by {Spying} out what they want you be. (But {Socialize} or {Sway} might be better).*
 
 When you {Sway}, you influence with guile, charm, or argument.
 
@@ -162,7 +162,7 @@ When you {Sway}, you influence with guile, charm, or argument.
 
 When you {Tech}, you employ science and skill against obstacles and devices.
 
-*You might create a new gadget or alter an existing item. You might build and program a computer. You might provide first aid to a civilan who got caught in cross-fire. You might also control a vehicle. You could try to use your technical expertise to destoy a device (but {Wreck} might be better).*
+*You might create a new gadget or alter an existing item. You might build and program a computer. You might provide first aid to a civilian who got caught in cross-fire. You might also control a vehicle. You could try to use your technical expertise to destroy a device (but {Wreck} might be better).*
 
 When you {Trace}, you find and follow targets.
 
@@ -206,7 +206,7 @@ When you suffer {Trauma}, you’re taken out of action. You’re “left for dea
 
 #### Trauma Conditions
 
-- {Addicted} You habitiually seek comfort in a troublesome activity or sustance.
+- {Addicted} You habitually seek comfort in a troublesome activity or substance.
 - {Haunted} You’re often lost in reverie, reliving past failures, seeing things.
 - {Isolated} You deliberately avoid emotional appeals and social bond.
 - {Obsessed} You’re enthralled by one thing: an activity, a person, an ideology.
@@ -248,9 +248,9 @@ The GM can use a clock to represent a progressive danger, like suspicion growing
 
 ### Racing Clocks
 
-Create two opposed clocks to represent a race. The PCs might have a progress clock called “Cornered” while the villain has a clock called “Escaped.” If the PCs finish their clock before the villain fills their's the PCs have their quarry cornered so the villain can't escape. Otherwise, the villain has escaped for now. If both complete at the same time, the villain escape to their lair, but the PCs are right outside!
+Create two opposed clocks to represent a race. The PCs might have a progress clock called “Cornered” while the villain has a clock called “Escaped.” If the PCs finish their clock before the villain fills theirs the PCs have their quarry cornered so the villain can't escape. Otherwise, the villain has escaped for now. If both complete at the same time, the villain escape to their lair, but the PCs are right outside!
 
-You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the “Search” clock to find the blackbox on a sinking airliner before the GM fills the “Sunk” clock and the vessel goes under.
+You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the “Search” clock to find the black-box on a sinking airliner before the GM fills the “Sunk” clock and the vessel goes under.
 
 ### Linked Clocks
 
@@ -285,7 +285,7 @@ When a player character does something challenging, make an **action roll** to s
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
 
 1. The player states their **goal** for the action.
-1. The player chooses the **action rating** and wether or not they want to use their super powers.
+1. The player chooses the **action rating** and whether or not they want to use their super powers.
 1. The GM sets the **position** for the roll.
 1. The GM sets the **effect level** for the action.
 1. Add **bonus dice**.
@@ -387,7 +387,7 @@ Limited  | You achieve a partial or weak effect. How is your impact diminished? 
 
 ### Assessing Factors
 <!--
-todo - assessing factors section: this one takes threat into account. Which asks the question, do threats and powers need an introduciton earlier. Like along with actions? That's part of the essense of the game. Also we want a good version of the magnitude chart up here with powers. -->
+todo - assessing factors section: this one takes threat into account. Which asks the question, do threats and powers need an introduction earlier. Like along with actions? That's part of the essence of the game. Also we want a good version of the magnitude chart up here with powers. -->
 To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
 #### Potency
@@ -398,7 +398,7 @@ The potency factor considers particular weaknesses, taking extra time or a bigge
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-*Thorn is picking the lock to a safehouse run of a gang reknowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.*
+*Thorn is picking the lock to a safehouse run of a gang renowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.*
 
 #### Scale
 
@@ -551,7 +551,7 @@ The fortune roll is a tool the GM can use to disclaim decision making. You use a
 
 **When you need to make a determination about a situation the PCs aren’t directly involved in** and don’t want to simply decide the outcome.
 
-> Two rival gands are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
+> Two rival gangs are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
 
 **When an outcome is uncertain**, but no other roll applies to the situation at hand.
 
@@ -752,4 +752,4 @@ Say how you’ve obtained this new ability or upgrades for the crew. *Where did 
 
 #### Profits
 
-Every time the crew advances, **each PC gets** **s**tash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
+Every time the crew advances, **each PC gets stash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
