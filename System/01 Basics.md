@@ -176,7 +176,13 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 ## Powers & Threat
 
-*Shift-X* is about heroes with dangerous and powerful abilities. 
+*Shift-X* is about heroes with dangerous and powerful abilities. Powers are grouped into narrative sets and each set is given a threat rating that indicates how dangerous it is when compared to villains and other powers. 
+
+Powers often allow a character to perform actions in some circumstance or in a specific way. For example, a character can use a laser attack power to fight at range. 
+
+Powers can also include mechanical bonuses such as +1d or +1 effect. 
+
+Powers are  
 
 ## Stress & Trauma
 
