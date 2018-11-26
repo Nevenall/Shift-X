@@ -174,15 +174,31 @@ When you {Wreck}, you unleash savage force.
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to {Wreck} someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, {Fight} might be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
 
-## Powers & Threat
+## Powersets
 
-*Shift-X* is about heroes with dangerous and powerful abilities. Powers are grouped into narrative sets and each set is given a threat rating that indicates how dangerous it is when compared to villains and other powers. 
+*Shift-X* is about heroes with dangerous and powerful abilities. **Powers** are grouped into related **power sets** and each set is given a **threat** rating that indicates how stong it is when compared to other powers. Powersets generally have a related origin. 
+
+### Powers
 
 Powers often allow a character to perform actions in some circumstance or in a specific way. For example, a character can use a laser attack power to fight at range. 
 
-Powers can also include mechanical bonuses such as +1d or +1 effect. 
+Powers might also include mechanical bonuses such as +1d or +1 effect for specific circumstances. 
 
-Powers are  
+### Threat
+
+<!-- Little bit about threat. -->
+
+### Limits
+
+Powersets also have **limits**, which are additional consequences which can come into play when you choose to use a power. A **limit** might, for example, be consequences the GM can declare whenever you activate your {Form of Electricity} powerset because turning your body into pure electricity can do all kinds of damage, especially if you are not careful where you do it. You can resist these consequences normally. 
+
+Other limits might specify things your powers do or don't work against. Your x-ray vision may be foiled by lead, or your stunning blast only works against characters who can hear you. 
+
+Most limits are suggestions about complications of using your powers. For example, activating your god-like sense of taste could inflict some harm on you if you taste something stronger then you were expecting. 
+
+You can activate your powers whenever you take an action, but whenever you do, you risk additional complications based on your **limits**. These consequences can be resisted, but they are in addition to the ordinary consequences your action might incure. Being a hero can be very stressful. 
+
+Limits are another tool for the players to set the tone of their game. 
 
 ## Stress & Trauma
 
