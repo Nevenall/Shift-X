@@ -1,5 +1,7 @@
 <img src="assets/logo-only.png" width=346 height=166></img>
 
+<img src="https://img.shields.io/github/release/nevenall/shift-x.svg?style=for-the-badge"></img>
+
 Shift-X is a superheroic roleplaying game Forged in the Dark. It is about a team of people with extraordinary powers trying to create and deepen their relationships while foiling the plans of devious villains.  
 
 ## Touchstones
