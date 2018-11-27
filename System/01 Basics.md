@@ -29,6 +29,7 @@ The GM helps organize the conversation of the game so it’s pointed toward the 
 A session of *Shift-X* is like a segment of a superhero movie or comic book. There are one or two extended action sequences linked by transitional scene which fit into an overall event, which often fits, in turn, into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
 During a session, the team of heroes work together to discover a villain's next move and the GM makes a dice roll for how well the villain's plan is progressing as the heroes leap into an action sequence. The PCs take actions, suffer consequences, and finish up an action sequence. Then the team has a few chances to interact and relieve stress, gather information, or acquire useful assets before transitioning to the next action sequence. Once the final action sequence is over, the heroes have downtime to heal and pursue side-projects.    
+
 ## The Core System
 
 ### Judgment calls
@@ -182,11 +183,11 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 Powers often allow a character to perform actions in some circumstance or in a specific way. For example, a character can use a laser attack power to fight at range. 
 
-Powers might also include mechanical bonuses such as +1d or +1 effect for specific circumstances. 
+Powers might also include mechanical bonuses such as +1d or +1 effect for specific circumstances.
 
 ### Threat
 
-<!-- Little bit about threat. -->
+**Threat** is a number assigned to each powerset, we use it to compare the relative strength of powers. 
 
 ### Limits
 
@@ -307,7 +308,8 @@ When a player character does something challenging, make an **action roll** to s
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
 
 1. The player states their **goal** for the action.
-1. The player chooses the **action rating** and whether or not they want to use their super powers.
+1. The player chooses the **action rating**.
+1. The player chooses which powers they want to use (if any).
 1. The GM sets the **position** for the roll.
 1. The GM sets the **effect level** for the action.
 1. Add **bonus dice**.
@@ -323,9 +325,13 @@ Your goal is the concrete outcome your character will achieve when they overcome
 
 The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your {Fight} action, then get in a fight. If you want to roll your {Command} action, then inspire someone to follow you. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
 
-### 3. The GM Sets the Position
+### 3. The Player Chooses Which Powers They Want Use
 
-Once the player chooses their action, the GM sets the **position** for the roll. The position represents how dangerous or troublesome the action might be. There are three positions: **controlled**, **risky**, and **desperate**. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand.
+Using superpowers to aid an action is a choice player must make because everytime heroes use their powers they risk super consequences as well. 
+
+### 4. The GM Sets the Position
+
+Once the player chooses their action, and powers, the GM sets the **position** for the roll. The position represents how dangerous or troublesome the action might be. There are three positions: **controlled**, **risky**, and **desperate**. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand.
 
 **By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
 
@@ -337,15 +343,15 @@ Once the player chooses their action, the GM sets the **position** for the roll.
 {Desperate}  | You’re in serious trouble. You’re overreaching your capabilities. You’re attempting a dangerous maneuver.
 :::
 
-### 4. The GM Sets the Effect Level
+### 5. The GM Sets the Effect Level
 
-The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us “how much” this action can accomplish: will it have **limited**, **standard**, or **great** effect?
+The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us “how much” this action can accomplish: will it have **no effect**, **limited**, **standard**, or **great** effect?
 
-*The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating and the relative threat levels of the powers involved. If a player wants to try to make a new friend by {Wrecking} something well...maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like {Socializing} would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or effective.*
+*The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating and the relative threat levels involved. If a player wants to try to make a new friend by {Wrecking} something well...maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like {Socializing} would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or effective.*
 
-### 5. Add Bonus Dice
+### 6. Add Bonus Dice
 
-You can normally get two bonus dice for your action roll (some special abilities might give you additional bonus dice).
+You can normally get two bonus dice for your action roll (some abilities and powers might give you additional bonus dice).
 
 For one bonus die, you can get **assistance** from a teammate. They take 1 stress, say how they help you, and give you +1d.
 
@@ -353,7 +359,7 @@ For another bonus die, you can either **push yourself** (take 2 stress) or you c
 
 #### The Devil’s Bargain
 
-PCs in *Shift-X* are daring heroes with powerful abilities they don't always have perfect control over. To reflect this, the GM or any other player can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
+PCs in *Shift-X* are daring heroes with powerful abilities they don't always have perfect control over. To reflect this the GM, or any other player, can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
 
 - Collateral damage, unintended harm.
 - Sacrifice an item.
@@ -368,13 +374,13 @@ The Devil’s Bargain is always a free choice. If you don’t like one, just rej
 
 If it’s ever needed, the GM has final say over which Devil’s Bargains are valid.
 
-### 6. Roll the Dice and Judge the Result
+### 7. Roll the Dice and Judge the Result
 
-Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
+Once the goal, action rating, powers, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
 
 The action roll does a lot of work for you. It tells you how well the character performs as well as how serious the consequences are for them. They might succeed at their action without any consequences (on a **6**), or they might succeed but suffer consequences (on a **4/5**), or it might just all go wrong (on a **1-3**).
 
-On a **1-3**, it’s up to the GM to decide if the PC’s action has any effect or not, or if it even happens at all. Usually, the action just fails completely, but in some circumstances, it might make sense or be more interesting for the action to have some effect even on a **1-3** result. The players are, after all, competent super heroes.
+On a **1-3**, it’s up to the GM to decide if the PC’s action has any effect or not, or if it even happens at all. Usually, the action just fails completely, but in some circumstances, it might make sense or be more interesting for the action to have some effect even on a **1-3** result. The players are, after all, ultra-competent super heroes.
 
 Each **4/5** and **1-3** outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
 
@@ -383,17 +389,44 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 ### Action Roll Summary
 
 - A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
-- The player chooses the **action rating** to roll and powers they will use. Choose the action that matches what the character is doing in the fiction.
+- The player chooses the **action rating** to roll. Choose the action that matches what the character is doing in the fiction.
+- The player chooses which, if any, of their powers they would like to use. 
 - The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player’s choice of action and powers.
 - Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
 - Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
 ### Double-duty Rolls
 
-Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it’s a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
+Since villains don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it’s a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
 
-<!-- 
-todo - add Action Roll table p21 -->
+::: callout right
+#### Controlled 
+
+**You act on your terms. You exploit a dominant advantage.**
+
+**Critical**: You do it with increased effect. 
+**6**: You do it. 
+**4/5**: You hesitate. Withdraw and try a different approach, or else do it with a minor consequence: a minor complication occurs, you have reduced effect, you suffer lesser harm, you end up in a risky position. 
+**1-3**: You falter. Press on by seizing a risky opportunity, or withdraw and try a different approach.
+
+#### Risky 
+
+**You go head to head. You act under fire. You take a chance.** 
+
+**Critical**: You do it with increased effect. 
+**6**: You do it. 
+**4/5**: You do it, but there’s a consequence: you suffer harm, a complication occurs, you have reduced effect, you end up in a desperate position. 
+**1-3**: Things go badly. You suffer harm, a complication occurs, you end up in a desperate position, you lose this opportunity.
+
+#### Desperate 
+
+**You overreach your capabilities. You’re in serious trouble.** 
+
+**Critical**: You do it with increased effect. 
+**6**: You do it. 
+**4/5**: You do it, but there’s a consequence: you suffer severe harm, a serious complication occurs, you have reduced effect. 
+**1-3**: It’s the worst outcome. You suffer severe harm, a serious complication occurs, you lose this opportunity for action.
+:::
 
 ## Effect
 
@@ -454,6 +487,7 @@ When a PC suffers an effect from an enemy or a dangerous situation, it’s calle
 
 ## Setting Position & Effect
 
+<!-- this is the section for more about threat.  -->
 The GM sets position and effect for an action roll at the same time, after the player says what they’re doing and chooses their action. Usually, **Risky / Standard** is the default combination, modified by the action being used, the strength of the opposition, and the effect factors.
 
 The ability to set position and effect as independent variables gives you nine combinations to choose from, to help you convey a wide array of fictional circumstances.
@@ -598,7 +632,7 @@ Other examples of fortune rolls:
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s {wanted level} counts as a major advantage for the inspectors.
 * The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to {Consort}, {Sway}, or {Command} her to stand down.
 
-todo - table p31
+<!-- todo - table p31 -->
 
 ## Gathering Information
 
@@ -624,18 +658,23 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ### Examples & Questions
 
-* You might {Attune} to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
-* You might {Command} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
-* You might {Consort} with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
-* You might {Hunt} a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
-* You might {Study} ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*
-* Or you might {Study} a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
-* You might {Survey} a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
-* Or you might {Survey} a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
-* You might {Sway} a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
-* Or you might {Sway} his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
+- You might {Attune} to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
+- You might {Command} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
+- You might {Consort} with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
+- You might {Hunt} a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
+- You might {Study} ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*
+- Or you might {Study} a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
+- You might {Survey} a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
+- Or you might {Survey} a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
+- You might {Sway} a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
+- Or you might {Sway} his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
 
-todo - table p33
+<!-- 
+todo - table p33 -->
+
+## Relationships
+
+<!-- This section is for more indepth details about relationships.  -->
 
 ## The Faction Game
 

@@ -83,3 +83,6 @@ the srd is pretty generic in it's examples, especially at first. the question is
 I'm an, embrace the voice of the setting, kind of guy. What other way is there to be really?
 
 So, shift-x details and characters abound. Of course, shift-x is not even close to entirely my creation. Which brings up...other thoughts about the setting. mmm...well, it's a thing I should talk about with the other dudes if I'm going to license their characters under Creative Commons.  
+
+
+Do we need more info about using powers? Does that belong under the action roll section? 
