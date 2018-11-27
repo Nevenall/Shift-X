@@ -299,6 +299,35 @@ Organizations and off-screen villains can have long-term goals as well. Like an 
 
 The PCs may also directly affect NPC agenda clocks, based on how what they do. Discuss known agendas that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.
 
+::: callout right
+### Controlled 
+
+**You act on your terms. You exploit a dominant advantage.**
+
+**Critical**: You do it with increased effect. 
+**6**: You do it. 
+**4/5**: You hesitate. Withdraw and try a different approach, or else do it with a minor consequence: a minor complication occurs, you have reduced effect, you suffer lesser harm, you end up in a risky position. 
+**1-3**: You falter. Press on by seizing a risky opportunity, or withdraw and try a different approach.
+
+### Risky 
+
+**You go head to head. You act under fire. You take a chance.** 
+
+**Critical**: You do it with increased effect. 
+**6**: You do it. 
+**4/5**: You do it, but there’s a consequence: you suffer harm, a complication occurs, you have reduced effect, you end up in a desperate position. 
+**1-3**: Things go badly. You suffer harm, a complication occurs, you end up in a desperate position, you lose this opportunity.
+
+### Desperate 
+
+**You overreach your capabilities. You’re in serious trouble.** 
+
+**Critical**: You do it with increased effect. 
+**6**: You do it. 
+**4/5**: You do it, but there’s a consequence: you suffer severe harm, a serious complication occurs, you have reduced effect. 
+**1-3**: It’s the worst outcome. You suffer severe harm, a serious complication occurs, you lose this opportunity for action.
+:::
+
 ## Action Roll
 
 When a player character does something challenging, make an **action roll** to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
@@ -398,35 +427,6 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 ### Double-duty Rolls
 
 Since villains don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it’s a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
-
-::: callout right
-#### Controlled 
-
-**You act on your terms. You exploit a dominant advantage.**
-
-**Critical**: You do it with increased effect. 
-**6**: You do it. 
-**4/5**: You hesitate. Withdraw and try a different approach, or else do it with a minor consequence: a minor complication occurs, you have reduced effect, you suffer lesser harm, you end up in a risky position. 
-**1-3**: You falter. Press on by seizing a risky opportunity, or withdraw and try a different approach.
-
-#### Risky 
-
-**You go head to head. You act under fire. You take a chance.** 
-
-**Critical**: You do it with increased effect. 
-**6**: You do it. 
-**4/5**: You do it, but there’s a consequence: you suffer harm, a complication occurs, you have reduced effect, you end up in a desperate position. 
-**1-3**: Things go badly. You suffer harm, a complication occurs, you end up in a desperate position, you lose this opportunity.
-
-#### Desperate 
-
-**You overreach your capabilities. You’re in serious trouble.** 
-
-**Critical**: You do it with increased effect. 
-**6**: You do it. 
-**4/5**: You do it, but there’s a consequence: you suffer severe harm, a serious complication occurs, you have reduced effect. 
-**1-3**: It’s the worst outcome. You suffer severe harm, a serious complication occurs, you lose this opportunity for action.
-:::
 
 ## Effect
 
