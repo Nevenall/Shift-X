@@ -1,14 +1,21 @@
 <img src="assets/logo-only.png" width=346 height=166></img>
 
-<img src="https://img.shields.io/github/release/nevenall/shift-x.svg?style=for-the-badge"></img>
-
-<img src="https://img.shields.io/github/last-commit/nevenall/shift-x.svg?style=for-the-badge"></img>
-
 Shift-X is a superheroic roleplaying game Forged in the Dark. It is about a team of people with extraordinary powers trying to create and deepen their relationships while foiling the plans of devious villains.  
+
+## Work in Progress
+
+Shift-X is a work in progress. I am currently working to edit the Blades in the Dark SRD. (½ through "Basics") 
+
+True believers can leave feedback at [Shift-X Feedback](https://github.com/Nevenall/Shift-X/issues)
+
+![GitHub release](https://img.shields.io/github/release/nevenall/shift-x.svg?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nevenall/shift-x.svg?style=for-the-badge)
 
 ## Touchstones
 
-The Marvel Cinematic Universe, especially the Avengers movies, are the Platonic ideal for the Shift-X experience. 
+- The Marvel Cinematic Universe; especially the Avengers series. 
+- The Dark Knight Trilogy.
 
 ## Licenses
 

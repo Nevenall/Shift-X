@@ -86,3 +86,5 @@ So, shift-x details and characters abound. Of course, shift-x is not even close 
 
 
 Do we need more info about using powers? Does that belong under the action roll section? 
+
+Also, where is a good place for the magnitude chart? 

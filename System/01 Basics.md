@@ -185,7 +185,7 @@ Powers might also include mechanical bonuses such as +1d or +1 effect for specif
 
 ### Threat
 
-**Threat** is a number assigned to each powerset, we use it to compare the relative strength of powers. 
+**Threat** is a rating of mangnitude given to each powerset; we use it to compare the relative strength of powers and judge what they are capable of achieving. 
 
 ### Limits
 
@@ -197,7 +197,7 @@ Most limits are suggestions about complications of using your powers. For exampl
 
 You can activate your powers whenever you take an action, but whenever you do, you risk additional complications based on your **limits**. These consequences can be resisted, but they are in addition to the ordinary consequences your action might incure. Being a hero can be very stressful. 
 
-Limits are another tool for the players to set the tone of their game. 
+Limits are a tool players can use to set the tone of their game. 
 
 ## Stress & Trauma
 
@@ -215,6 +215,7 @@ You can use stress to push yourself for greater performance. For each bonus you 
 
 - Add **+1d** to your roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you)
 - Add **+1 level** to your effect.
+- Add **+1 threat** to a power you are using. 
 - Take action when you’re incapacitated.
 
 ### Trauma
