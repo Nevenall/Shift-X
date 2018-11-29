@@ -151,7 +151,7 @@ You may imbue your hands, melee weapons, or tools with spirit energy. You gain *
 
 ### Leader
 
-When you {Command} a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
+When you {Inspire} a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
@@ -171,11 +171,11 @@ You can **push yourself** to do one of the following: *perform a feat of physica
 
 ### Savage
 
-When you unleash physical violence, it’s especially frightening. When you {Command} a frightened target, take **+1d**.
+When you unleash physical violence, it’s especially frightening. When you {Menance} a frightened target, take **+1d**.
 
 > You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.
 
-> In addition, when you {Command} someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
+> In addition, when you {Menace} someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
 
 ### Vigorous
 

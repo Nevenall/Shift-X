@@ -81,13 +81,14 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 ### Action Ratings
 
-There are 11 **actions** in the game that the player characters use to overcome obstacles.
+There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
 ::: columns
 - Acrobatics
-- Command
 - Fight
+- Inspire
 - Know
+- Meance
 - Move
 - Socialize
 - Spy
@@ -97,7 +98,7 @@ There are 11 **actions** in the game that the player characters use to overcome 
 - Wreck
 :::
 
-Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. Your **powers**, however, are separate from your action ratings. You may describe your character making use of their powers, or not, when you perform an action. 
+Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Menance} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. Your **powers**, however, are separate from your action ratings. You may describe your character making use of their powers, or not, when you perform an action. 
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
@@ -112,8 +113,6 @@ If there’s no danger or trouble at hand, you don’t make an action roll. You 
 There are three **attributes** in the game system that the player characters use to resist bad consequences: {Insight}, {Prowess}, and {Resolve}. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
 The rating for each attribute is equal to the number of dots in the **first column** under that attribute. The more well-rounded your character is with a particular set of actions, the better their attribute rating.
-
-The **hero rule** is an exception. All PCs have *chosen* to become heroes and face the constant dangers of that choice, therefore they receive their first dot of {Resolve} for free.
 
 ### Resistance Roll
 
@@ -131,17 +130,22 @@ When you use {Acrobatics}, you maneuver with dexterous flips and tumbles.
 
 *You might flip into a better position behind a thug. You could try to surprise a foe with a gymnastic maneuver (but {Fight} might be better)*
 
-When you {Command}, you inspire others to follow.
-
-*You might inspire confidence in others to get what you want. You might lead a cohort in a group action. You could try to order people around to persuade them (but {Swaying} might be better).*
-
 When you {Fight}, you overpower foes with ranged attacks and in close quarters combat.
 
 *You might brawl or wrestle with them; use your lighting powers to electrify them. You might seize or hold a position in battle. You could try to fight to destroy a villain's tech (but {Wrecking} might be better).*
 
+When you {Inspire}, you invoke emotions of attraction and awe in others.
+
+*You might {Inspire} confidence in others so they will follow you into battle. You might lead a cohort in a group action. You could try to {Inspire} others to convince them of something (but {Swaying} might be better).*
+
+
 When you {Know}, you use research and accumulated knowledge to unravel mysteries.
 
 *You might know an important detail about a villain's background or dig through a mess of satellite data to discover where their lair is. You could try {Knowing} how to operate some alien technology (but {Tech} might be better).*
+
+When you {Menance}, you invoke emotions of anger and terror in others.
+
+*You might {Menance} a villain's thug into giving you information. You might threaten a cohort into obeying you. You could try to {Menance} someone into being friends (but {Swaying} might be better).*
 
 When you {Move}, you pursue foes or move a fight to another location.
 
@@ -157,7 +161,7 @@ When you {Spy}, you use tradecraft and situational awareness to infiltrate, gath
 
 When you {Sway}, you influence with guile, charm, or argument.
 
-*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but {Socializing} or {Commanding} might be better).*
+*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but {Inspiring} or {Menacing} them might be better).*
 
 When you {Tech}, you employ science and skill against obstacles and devices.
 
@@ -362,7 +366,7 @@ Your goal is the concrete outcome your character will achieve when they overcome
 
 ### 2. The Player Chooses the Action Rating
 
-The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your {Fight} action, then get in a fight. If you want to roll your {Command} action, then inspire someone to follow you. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
+The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your {Fight} action, then get in a fight. If you want to roll your {Inspire} action, then inspire someone to follow you. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
 
 ### 3. The Player Chooses Which Powers They Want Use
 
@@ -639,7 +643,7 @@ Other examples of fortune rolls:
 * A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
 * The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled {Hunt} roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a {4/5}: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s {wanted level} counts as a major advantage for the inspectors.
-* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to {Consort}, {Sway}, or {Command} her to stand down.
+* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to {Consort}, {Sway}, or {Inspire} her to stand down.
 
 <!-- todo - table p31 -->
 
@@ -668,7 +672,7 @@ You track the investigation project using a progress clock. Once the clock is fi
 ### Examples & Questions
 
 - You might {Attune} to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
-- You might {Command} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
+- You might {Menace} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
 - You might {Consort} with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
 - You might {Hunt} a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
 - You might {Study} ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*

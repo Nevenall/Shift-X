@@ -150,7 +150,7 @@ Each PC who’s involved makes an **action roll** (using the same action) and **
 
 **The group action result covers everyone who rolled.** If you don’t roll, your character doesn’t get the effects of the action.
 
-Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll {Command} if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
+Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll {Inspire} if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
 
 ### Protect
 
@@ -452,7 +452,7 @@ Whenever you suffer new harm, clear any ticks on your healing clock.
 
 ### Reduce heat
 
-Say what your character does to reduce the {heat} level of the crew and make an action roll. Maybe you {Consort} with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you {Command} the fear of the local citizens so they’re afraid to snitch.
+Say what your character does to reduce the {heat} level of the crew and make an action roll. Maybe you {Consort} with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you {Menace} the fear of the local citizens so they’re afraid to snitch.
 
 Reduce {heat} according to the result: {1-3:} one, {4/5:} two, {6:} three, {critical:} five.
 

@@ -137,7 +137,7 @@ You can add an **additional type** to a gang or expert by spending two crew upgr
 
 ### Using a cohort
 
-When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll {Command}. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
+When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll {Inspire}. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
 
 > The PCs crew of Hawkers want to run a rival gang out of the alley where they’re selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs’ quality, and gets a {3}. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, “Those guys are tough, boss.” (The GM inflicts harm on the cohort, and they failed their goal.)
 
@@ -275,7 +275,7 @@ A list of five upgrades specific to the crew. Some examples:
 
 {Covert Drop:} You get **+2** {coin} in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
 
-{Interrogation Chamber:} You get **+1d** to {Command} and {Sway} on-site. *Grisly business, but effective.*
+{Interrogation Chamber:} You get **+1d** to {Menace} and {Sway} on-site. *Grisly business, but effective.*
 
 {Loyal Fence:} You get **+2** {coin} in **payoff** for scores that involve burglary or robbery. *It requires a skilled eye and good contacts to move stolen goods.*
 
