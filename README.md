@@ -8,7 +8,7 @@ Shift-X is a work in progress. I am currently working to edit the Blades in the 
 
 True believers can leave feedback at [Shift-X Feedback](https://github.com/Nevenall/Shift-X/issues)
 
-![GitHub release](https://img.shields.io/github/release/nevenall/shift-x.svg?style=for-the-badge)
+[![GitHub release](https://img.shields.io/github/release/nevenall/shift-x.svg?style=for-the-badge)](https://github.com/nevenall/shift-x)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nevenall/shift-x.svg?style=for-the-badge)
 
