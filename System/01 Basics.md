@@ -181,11 +181,24 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 Powers often allow a character to perform actions in some circumstance or in a specific way. For example, a character can use a laser attack power to fight at range. 
 
-Powers might also include mechanical bonuses such as +1d or +1 effect for specific circumstances.
+Powers might also include mechanical bonuses such as **+1d** or **+1 effect** for specific circumstances.
 
 ### Threat
 
 **Threat** is a rating of mangnitude given to each powerset; we use it to compare the relative strength of powers and judge what they are capable of achieving. 
+
+#### Magnitude
+
+Rating | Area             | Scale | Duration | Range | Force |
+:-----:|------------------|-------|----------|-------|-------|
+0      | Closet
+1      | Small Room
+2      | Large Room
+3      | Several Rooms
+4      | Small Building
+5      | Large Building
+6      | City Block
+7      |
 
 ### Limits
 
@@ -207,7 +220,7 @@ Player characters in *Shift-X* have a special resource called **stress**. When t
 
 > During a fight, Daniel’s character, Shadow, gets blasted in the chest by concentrated cosmic light. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Shadow survives.
 
-> Because Shadow's powers are based on darkness and the attack was concentrated light, The GM rules that the harm is reduced, but not avoided entirely. Shadow suffers level 2 harm (“Chest Burns”) instead of level 3 harm (“Collapsed Lung”).
+> Because Shadow's powers are based on darkness and the attack was concentrated light, The GM rules that the harm is reduced, but not avoided entirely. Shadow suffers level 2 harm {Chest Burns} instead of level 3 harm {Collapsed Lung}.
 
 ### Pushing Yourself
 
@@ -220,9 +233,9 @@ You can use stress to push yourself for greater performance. For each bonus you 
 
 ### Trauma
 
-When a PC marks their last stress box, they suffer a level of {Trauma}. When you take {Trauma}, circle one of your **trauma conditions** like *Isolated*, *Reckless*, *Unstable*, etc. They’re all described on the next page.
+When a PC marks their last stress box, they suffer a level of **trauma**. When you take **trauma**, circle one of your **trauma conditions** like {Isolated}, {Reckless}, {Unstable}, etc. They’re all described on the next page.
 
-When you suffer {Trauma}, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained and with **0 stress taken**.
+When you suffer **trauma**, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained and with **0 stress taken**.
 
 **Trauma conditions are permanent**. Your character acquires the new personality quirk indicated by the condition, and can earn xp by using it to cause trouble. **When you mark your fourth trauma condition**, your character cannot continue to face the dangers of being a hero and you must retire them to a different life.
 
