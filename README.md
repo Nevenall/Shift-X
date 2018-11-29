@@ -10,7 +10,7 @@ True believers can leave feedback at [Shift-X Feedback](https://github.com/Neven
 
 [![GitHub release](https://img.shields.io/github/release/nevenall/shift-x.svg?style=for-the-badge)](https://github.com/Nevenall/Shift-X/releases/latest)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/nevenall/shift-x.svg?style=for-the-badge)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nevenall/shift-x.svg?style=for-the-badge)](https://github.com/Nevenall/Shift-X/commits/master)
 
 ## Touchstones
 
