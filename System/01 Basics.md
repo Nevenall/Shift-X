@@ -193,16 +193,19 @@ Powers might also include mechanical bonuses such as **+1d** or **+1 effect** fo
 
 #### Magnitude
 
-Rating | Area             | Scale | Duration | Range | Force |
-:-----:|------------------|-------|----------|-------|-------|
-0      | Closet
-1      | Small Room
-2      | Large Room
-3      | Several Rooms
-4      | Small Building
-5      | Large Building
-6      | City Block
-7      |
+<!-- Clearly we'll have to adjust the magnitude scales for super games. In fact, this chart is a totally flexible kind of thing. You can adjust it however you like for the scope of the game that you want. 
+Should proably adjust the targets to be based on not gangs. Like the size of a party of banquet. Need to adjust the force scale too.  -->
+
+Rating | Area             | Targets              | Duration | Range             | Force                                          
+:-----:|------------------|----------------------|----------|-------------------|-------
+0      | Closet           | Pair                 | Moments  | Reach             | A firm shove, a candle flame, breeze, tiny spark
+1      | Small room       | Small group (3–6)    | Minutes  | Dozen paces       | A solid punch, steady wind, torch flame, electrical shock
+2      | Large room       | Medium group (12)    | Hour     | Stone's throw     | A powerful blow, howling wind, burning brand
+3      | Several rooms    | Large group (20)     | Hours    | Down the road     | A crushing blow, staggering wind, grenade, searing fire, electrical surge
+4      | Small building   | Huge group (40)      | Day      | Several blocks    | A charging horse, burning forge, bomb, whirlwind, electrocution
+5      | Large building   | Massive group (80)   | Days     | Across a district | A ship’s cannon, raging thunder-storm, massive fire, lightning strike
+6      | City block       | Colossal group (160) | Week     | Across the city   | Hurricane wind, molten lava, tidal wave, electrical maelstrom
+7      | City district    | 
 
 ### Limits
 
