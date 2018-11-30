@@ -194,7 +194,12 @@ Powers might also include mechanical bonuses such as **+1d** or **+1 effect** fo
 #### Magnitude
 
 <!-- Clearly we'll have to adjust the magnitude scales for super games. In fact, this chart is a totally flexible kind of thing. You can adjust it however you like for the scope of the game that you want. 
-Should proably adjust the targets to be based on not gangs. Like the size of a party of banquet. Need to adjust the force scale too.  -->
+Should proably adjust the targets to be based on not gangs. Like the size of a party of banquet. Need to adjust the force scale too. 
+faserip has good scale tables. Rate then from 0 to 9. 
+what would a feat of strength look like? a strength power would have a magnitude based on its threat. 
+Except faserip has several normal scale rating. 
+jessica jones's strength power would be maybe around worldclass or Fantastic. Which could be several diff numbers depending on where we start the scale. 
+ -->
 
 Rating | Area             | Targets              | Duration | Range             | Force                                          
 :-----:|------------------|----------------------|----------|-------------------|-------
