@@ -189,9 +189,11 @@ Powers might also include mechanical bonuses such as **+1d** or **+1 effect** fo
 
 ### Threat
 
-**Threat** is a rating of mangnitude given to each powerset; we use it to compare the relative strength of powers and judge what they are capable of achieving. 
+**Threat** is a rating of strength from 0 to 6 (sometimes more). Villains and powersets are each given a threat rating; we use it to compare their relative impact and to judge, for example, how effective an attack power will be against a defense power, or how much collateral damage an out of control water attack might inflict. 
 
-#### Magnitude
+### Magnitude
+
+Magnitude is a scale for comparing villains and the effects of powers, or in fact, anything you want to get a general feeling for. 
 
 <!-- Clearly we'll have to adjust the magnitude scales for super games. In fact, this chart is a totally flexible kind of thing. You can adjust it however you like for the scope of the game that you want. 
 Should proably adjust the targets to be based on not gangs. Like the size of a party of banquet. Need to adjust the force scale too. 
@@ -201,7 +203,7 @@ Except faserip has several normal scale rating.
 jessica jones's strength power would be maybe around worldclass or Fantastic. Which could be several diff numbers depending on where we start the scale. 
  -->
 
-Rating | Area             | Targets              | Duration | Range             | Force                                          
+Rating | Area             | Targets              | Duration | Range             | Threat                                          
 :-----:|------------------|----------------------|----------|-------------------|-------
 0      | Closet           | Pair                 | Moments  | Reach             | A firm shove, a candle flame, breeze, tiny spark
 1      | Small room       | Small group (3–6)    | Minutes  | Dozen paces       | A solid punch, steady wind, torch flame, electrical shock
@@ -230,7 +232,7 @@ Limits are a tool players can use to set the tone of their game.
 
 Player characters in *Shift-X* have a special resource called **stress**. When they suffer a consequence they don’t want to accept, they can take stress instead. The result of a **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-> During a fight, Daniel’s character, Shadow, gets blasted in the chest by concentrated cosmic light. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Shadow survives.
+> During a fight, Daniel’s character, Shadow, gets blasted in the chest by concentrated cosmic light for 3 harm. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Shadow survives.
 
 > Because Shadow's powers are based on darkness and the attack was concentrated light, The GM rules that the harm is reduced, but not avoided entirely. Shadow suffers level 2 harm {Chest Burns} instead of level 3 harm {Collapsed Lung}.
 
@@ -245,9 +247,9 @@ You can use stress to push yourself for greater performance. For each bonus you 
 
 ### Trauma
 
-When a PC marks their last stress box, they suffer a level of **trauma**. When you take **trauma**, circle one of your **trauma conditions** like {Isolated}, {Reckless}, {Unstable}, etc. They’re all described on the next page.
+When a PC marks their last stress box, they suffer a level of **trauma**. When you take **trauma**, circle one of your **trauma conditions** like {Isolated}, {Reckless}, {Unstable}.
 
-When you suffer **trauma**, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current conflict, only to come back later, shaken and drained and with **0 stress taken**.
+When you suffer **trauma**, you’re taken out of action. You’re “left for dead” or otherwise dropped out of the current action sequence, only to come back later, shaken and drained and with **0 stress taken**.
 
 **Trauma conditions are permanent**. Your character acquires the new personality quirk indicated by the condition, and can earn xp by using it to cause trouble. **When you mark your fourth trauma condition**, your character cannot continue to face the dangers of being a hero and you must retire them to a different life.
 
@@ -255,12 +257,12 @@ When you suffer **trauma**, you’re taken out of action. You’re “left for d
 
 - {Addicted} You habitually seek comfort in a troublesome activity or substance.
 - {Haunted} You’re often lost in reverie, reliving past failures, seeing things.
-- {Isolated} You deliberately avoid emotional appeals and social bond.
+- {Isolated} You deliberately avoid emotional appeals and social bonds.
 - {Obsessed} You’re enthralled by one thing: an activity, a person, an ideology.
 - {Paranoid} You imagine danger everywhere; you can’t trust others.
 - {Reckless} You have little regard for your own safety or best interests.
 - {Unstable} Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
-- {Vicious} You live for the moments when you can use your powers to hurt or humiliate your foes.
+- {Vicious} You live for the moments when you can use your powers to hurt or humiliate villains.
 
 ## Progress clocks
 
@@ -435,7 +437,7 @@ On a **1-3**, it’s up to the GM to decide if the PC’s action has any effect 
 
 Each **4/5** and **1-3** outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
 
-When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the chief of police to convince her. The GM will tell us how she reacts. When you face the ninja dualist, what’s your fighting style like? Etc.*
+When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the chief of police to convince her. The GM will tell us how she reacts. When you face the ninja master, what’s your fighting style like? Etc.*
 
 ### Action Roll Summary
 
@@ -460,11 +462,14 @@ Effect   |                                                              | Ticks
 Great    | You achieve more than usual. How does the extra effort manifest? What additional benefit do you enjoy? | 3
 Standard | You achieve what we’d expect as “normal” with this action. Is that enough, or is there more left to do? | 2
 Limited  | You achieve a partial or weak effect. How is your impact diminished? What effort remains to achieve your goal? | 1
+None     | You cannot achieve what you want this way. You may need to **push** your power to increase it's **threat** or find a weakness | 0
 :::
 
 ### Assessing Factors
 <!-- todo - assessing factors section: this one takes threat into account. Which asks the question, do threats and powers need an introduction earlier. Like along with actions? That's part of the essence of the game. Also we want a good version of the magnitude chart up here with powers. -->
-To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
+To assess effect level, first start with your gut feeling, given this situation.
+
+ Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
 #### Potency
 
@@ -515,10 +520,10 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild *{Skirmish}*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
-* *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
-* *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
-* *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
+- *She fights the gang straight up, rushing into their midst, hacking away in a wild *{Skirmish}*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
+- *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
+- *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
+- *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
 
 ## Consequences & Harm
 
