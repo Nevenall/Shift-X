@@ -467,31 +467,29 @@ None     | You cannot achieve what you want this way. You may need to **push** y
 
 ### Assessing Factors
 <!-- todo - assessing factors section: this one takes threat into account. Which asks the question, do threats and powers need an introduction earlier. Like along with actions? That's part of the essence of the game. Also we want a good version of the magnitude chart up here with powers. -->
-To assess effect level, first start with your gut feeling, given this situation.
+To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess factors that may modify the effect level: **potency**, **scale**, and **threat**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
- Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
+When considering factors, effect level might be reduced below limited, resulting in **zero effect**—or increased beyond great, resulting in an **overwhelming effect**.
+
+Every factor won’t always apply to every situation. You don’t have to do an exact accounting every time, either. Use the factors to help you make a stronger judgment call—don’t feel beholden to them.
 
 #### Potency
 
-The potency factor considers particular weaknesses, taking extra time or a bigger risk, or the influence of arcane powers. An infiltrator is more potent if all the lights are extinguished and they move about in the dark.
-
-#### Threat
-
-Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
-
-*Thorn is picking the lock to a safehouse run of a gang renowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.*
+The potency factor considers particular strengths and weaknesses; taking extra time or a bigger risk, or favorable power combinations. A fire power is more potent against defenses based entrely on ice.
 
 #### Scale
 
-Scale represents the number of opponents, size of an area covered, scope of influence, etc. Larger scale can be an advantage or disadvantage depending on the situation. In battle, more people are better. When infiltrating, more people are a hindrance.
+Scale represents the number of opponents, size of an area covered, scope of influence, etc. Larger scale can be an advantage or disadvantage depending on the situation. In battle, more people are better. When infiltrating, more people are a hindrance. 
 
-When considering factors, effect level might be reduced below limited, resulting in **zero effect**—or increased beyond great, resulting in an **extreme effect**.
-
-If a PC special ability gives “+1 effect,” it comes into play *after* the GM has assessed the effect level. For example, if you ended up with zero effect, the +1 effect bonus from your Cutter’s {Bodyguard} ability would bump them up to limited effect.
+If a power or ability gives +1 effect, it comes into play *after* the GM has assessed the effect level. For example, if you ended up with zero effect, the +1 effect bonus from your {Bodyguard} ability would bump them up to limited effect.
 
 Also, remember that a PC can **push themselves** (take 2 stress) to get +1 effect on their action.
 
-Every factor won’t always apply to every situation. You don’t have to do an exact accounting every time, either. Use the factors to help you make a stronger judgment call—don’t feel beholden to them.
+#### Threat
+
+Threat represents the quality and force of a power or character. 
+
+*Thorn is fighting her way out of the safehouse of a gang of occult fantatics. Her plant attack power is threat 1, the Occult's gang is threat 3. Thorn is seriously outclassed in threat, so she will have no effect unless she boosts the threat of her power somehow.*
 
 ### Trading Position for Effect
 
@@ -499,9 +497,9 @@ After factors are considered and the GM has announced the effect level, a player
 
 This kind of trade-off isn’t included in the effect factors because it’s not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
 
-*“I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola.”*
+*“I {Move} across the courtyard and vault over the wall, fading in the shadows by the canal dock and gondola.”*
 
-*“I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side.”*
+*“I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to {Spy} through the other half of the space (and the rest of the guards there) to reach the other side.”*
 
 *“I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?”*
 
@@ -509,7 +507,7 @@ This kind of trade-off isn’t included in the effect factors because it’s not
 
 ### Consequences
 
-When a PC suffers an effect from an enemy or a dangerous situation, it’s called a **consequence**. Consequences are the companion to effects. PCs have effect on the world around them and they suffer consequences in return from the risks they face.
+When a PC suffers an effect from an enemy, dangerous situation, or because of their power limits, it’s called a **consequence**. Consequences are the companion to effects. Heroes have effect on the world around them and they suffer consequences in return from the risks they face.
 
 ## Setting Position & Effect
 
@@ -518,36 +516,37 @@ The GM sets position and effect for an action roll at the same time, after the p
 
 The ability to set position and effect as independent variables gives you nine combinations to choose from, to help you convey a wide array of fictional circumstances.
 
-*For example, if a character is facing off alone against a small enemy gang, the situation might be:*
+For example, if a character is facing off alone against a small enemy gang, the situation might be:
 
-- *She fights the gang straight up, rushing into their midst, hacking away in a wild *{Skirmish}*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
-- *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
-- *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
-- *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
+- She fights the gang straight up, rushing into their midst, hacking away in a wild {Fight}. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect **(Desperate / Limited)**.
+- She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced **(Risky / Limited)**.
+- She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced **(Desperate / Standard)**. If she had some immediate means of escape (like leaping onto a speeding truck), then her effect might even be increased **(Desperate / Great)**.
+- The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger **(Controlled / Great)**. Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies **(Controlled / Limited)**. If the gang is on guard for potential trouble, her position is more dangerous **(Risky / Great)**. If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover **(Risky / Limited)**. If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our hero **(Desperate / Limited)**.
 
 ## Consequences & Harm
 
-Enemy actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC. There are five types (at right).
+Villain actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC. There are five types (at right).
 
-A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the style and tone established by the game group.
+A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the style and tone established by the game group. 
+<!-- somethin about power limit consequences  -->
 
 ### Reduced Effect
 
-This consequence represents impaired performance. The PC’s action isn’t as effective as they’d anticipated. You hit him, but it’s only a flesh wound. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going—you’re only halfway up. This consequence essentially reduces the effect level of the PC’s action by one after all other factors are accounted for.
+This consequence represents impaired performance. The PC’s action isn’t as effective as they’d anticipated. You hit him, but it’s only a bruise. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going—you’re only halfway up. This consequence essentially reduces the effect level of the PC’s action by one after all other factors are accounted for.
 
 ### Complication
 
-This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you’re disarmed, the crew takes +1 {heat} from evidence or witnesses, you lose status with a faction, the target evades you and now it’s a chase, reinforcements arrive, etc.
+This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you’re disarmed, the team looses status with police because of the chaos, you lose status with another organization, the target evades you and now it’s a chase, reinforcements arrive, the villains start taking hostages, etc.
 
-Or the GM might tick a clock for the complication, instead. Maybe there’s a clock for the alert level of the guards at the manor. Or maybe the GM creates a new clock for the suspicion of the noble guests at the masquerade party and ticks it. Fill one tick on a clock for a minor complication or two ticks for a standard complication.
+Or the GM might tick a clock for the complication, instead. Maybe there’s a clock for the activation of the villain's superweapon. Or maybe the GM creates a new clock for the suspicion of the elite guests at the masquerade party and ticks it. Fill one tick on a clock for a minor complication or two ticks for a standard complication.
 
-A **serious complication** is more severe: reinforcements surround and trap you, the room catches fire and falling ceiling beams block the door, your weapon is broken, the crew suffers +2 {heat}, your target escapes out of sight, etc. Fill three ticks on a clock for a serious complication.
+A **serious complication** is more severe: reinforcements surround and trap you, the room catches fire and falling ceiling beams block the door, your weapon is broken, the team looses 2 status with the police, your target escapes out of sight, etc. Fill three ticks on a clock for a serious complication.
 
-**Don’t inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a {4/5}, don’t say that the enemy escapes. The player’s roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
+**Don’t inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a **4/5**, don’t say that the enemy escapes. The player’s roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
 
 ### Lost Opportunity
 
-This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to {Skirmish} with the noble to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you’ll have to try another way—maybe by {Swaying} her with your roguish charm.
+This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to {Fight} with the ninja to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you’ll have to try another way—maybe by {Swaying} her with your roguish charm.
 
 ### Worse Position
 
@@ -555,26 +554,27 @@ This consequence represents losing control of the situation—the action carries
 
 ### Harm
 
-This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
+This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer **lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
-Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have “Drained” and “Battered” harm in the bottom row, you’ll suffer reduced effect when you try to run away from the constables. When you’re impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can’t do anything unless you have help from someone else or **push yourself** to perform the action.
+Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have {Drained} and {Battered} harm in the bottom row, you’ll suffer reduced effect when you try to run away from the constables. When you’re impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can’t do anything unless you have help from someone else or **push yourself** to perform the action.
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you’d have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
 
-todo - Table from p27
+<!-- todo - Table from p27 -->
 
-
+::: sidebar left
 #### Harm examples
 
-**Fatal (4):** *Electrocuted, Drowned, Stabbed in the Heart.*
+**Fatal (4):** {Electrocuted}, {Drowned}, {Stabbed in the Heart}.
 
-**Severe (3):** *Impaled, Broken Leg, Shot in Chest, Badly Burned, Terrified.*
+**Severe (3):** {Impaled}, {Broken Leg}, {Shot in Chest}, {Badly Burned}, {Terrified}.
 
-**Moderate (2):** *Exhausted, Deep Cut to Arm, Concussion, Panicked, Seduced.*
+**Moderate (2):** {Exhausted}, {Deep Cut to Arm}, {Concussion}, {Panicked}, {Seduced}.
 
-**Lesser (1):** *Battered, Drained, Distracted, Scared, Confused.*
+**Lesser (1):** {Battered}, {Drained}, {Distracted}, {Scared}, {Confused}.
 
-Harm like “Drained” or “Exhausted” can be a good fallback consequence if there’s nothing else threatening a PC (like when they spend all night {Studying} those old books, looking for any clues to their enemy’s weaknesses before he strikes).
+Harm like {Drained} or {Exhausted} can be a good fallback consequence if there’s nothing else threatening a PC (like when they spend all night studying those old books, looking for any clues to their enemy’s weaknesses before he strikes).
+:::
 
 ## Resistance and Armor
 
@@ -586,15 +586,15 @@ You make the roll using one of your character’s **attributes** ({Insight}, {Pr
 * {Prowess}: Consequences from physical strain or injury.
 * {Resolve}: Consequences from mental strain or willpower.
 
-Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a {4}, you’d suffer 2 stress. If you rolled a {6}, you’d suffer zero stress. If you get a {critical} result, you also **clear 1 stress**.
+Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a **4**, you’d suffer 2 stress. If you rolled a **6**, you’d suffer zero stress. If you get a **critical** result, you also **clear 1 stress**.
 
-> Ian’s character, Silas, is in a desperate {Skirmish} with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s {Prowess} attribute and gets a {5}. Silas takes 1 stress and the harm is reduced to level 2, “Cut to the Ribs.”
+> Ian’s character, Silas, is in a desperate {Fight} with several sword demons and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s {Prowess} attribute and gets a **5**. Silas takes 1 stress and the harm is reduced to level 2, {Cut to the Ribs}.
 
-Usually, a resistance roll **reduces the severity** of a consequence. If you’re going to suffer fatal harm, for example, a resistance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the “Alert” clock, she’d only mark two (or maybe one) if you resisted the complication.
+Usually a resistance roll means you **avoid the consequence**, or reduce it by a couple of steps. If you’re going to suffer fatal harm, for example, a resistance roll could reduce that to typical harm instead. Or if you got a complication and the GM was going to mark three ticks on a clock, she’d only mark one (or maybe none) if you resisted the complication.
 
 **You may only roll against a given consequence once.**
-
-The GM also has the option to rule that your character **completely avoids** the consequence. For instance, maybe you’re in a sword fight and the consequence is getting disarmed. When you resist, the GM says that you avoid that consequence completely: you keep hold of your weapon.
+<!-- note -left off here -->
+The GM also has the option to rule that your character only **reduces the severity** of the consequence. For instance, maybe you’re in a sword fight and the consequence is getting disarmed. When you resist, the GM says that you avoid that consequence completely: you keep hold of your weapon.
 
 **By adjusting which consequences are reduced vs. which are avoided, the GM establishes the overall tone of your game**. For a more daring game, most consequences will be avoided. For a grittier game, most consequences will only be reduced with resistance.
 
