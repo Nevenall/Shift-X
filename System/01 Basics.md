@@ -576,7 +576,7 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 Harm like {Drained} or {Exhausted} can be a good fallback consequence if there’s nothing else threatening a PC (like when they spend all night studying those old books, looking for any clues to their enemy’s weaknesses before he strikes).
 :::
 
-## Resistance and Armor
+## Resistance & Armor
 
 When your PC suffers a consequence that you don’t like, you can choose to resist it. Just tell the GM, “No, I don’t think so. I’m resisting that.” Resistance is always automatically effective—the GM will tell you if the consequence is reduced in severity or if you avoid it entirely. Then, you’ll make a **resistance roll** to see how much stress your character suffers as a result of their resistance.
 
@@ -590,6 +590,8 @@ Your character suffers **6 stress** when they resist, **minus the highest die re
 
 > Ian’s character, Silas, is in a desperate {Fight} with several sword demons and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s {Prowess} attribute and gets a **5**. Silas takes 1 stress and the harm is reduced to level 2, {Cut to the Ribs}.
 
+
+<!-- actually undo that. By default resisting means you reduce the consequence, unless you choose to employ a power as part of your resistance. armor or reflexes, that kind of thing. But, as always using a power opens up the possibility of limit based consequnces. On the other hand, using a good defense power can be a phenomenal advantage.  -->
 Usually a resistance roll means you **avoid the consequence**, or reduce it by a couple of steps. If you’re going to suffer fatal harm, for example, a resistance roll could reduce that to typical harm instead. Or if you got a complication and the GM was going to mark three ticks on a clock, she’d only mark one (or maybe none) if you resisted the complication.
 
 **You may only roll against a given consequence once.**
