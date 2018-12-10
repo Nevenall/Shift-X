@@ -489,7 +489,7 @@ Also, remember that a PC can **push themselves** (take 2 stress) to get +1 effec
 
 Threat represents the quality and force of a power or character. 
 
-*Thorn is fighting her way out of the safehouse of a gang of occult fantatics. Her plant attack power is threat 1, the Occult's gang is threat 3. Thorn is seriously outclassed in threat, so she will have no effect unless she boosts the threat of her power somehow.*
+*Thorn is fighting her way out of the safehouse of a gang of occult fantatics. Her plant attack power is threat 1, the Occult's gang is threat 3. Thorn is seriously outclassed in threat, so she will have no effect unless she boosts the threat or effect of her power somehow.*
 
 ### Trading Position for Effect
 
