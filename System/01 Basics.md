@@ -511,7 +511,7 @@ When a PC suffers an effect from an enemy, dangerous situation, or because of th
 
 ## Setting Position & Effect
 
-<!-- this is the section for more about threat.  -->
+<!-- todo - this is the section for more about threat.  -->
 The GM sets position and effect for an action roll at the same time, after the player says what they’re doing and chooses their action. Usually, **Risky / Standard** is the default combination, modified by the action being used, the strength of the opposition, and the effect factors.
 
 The ability to set position and effect as independent variables gives you nine combinations to choose from, to help you convey a wide array of fictional circumstances.
@@ -523,20 +523,23 @@ For example, if a character is facing off alone against a small enemy gang, the 
 - She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced **(Desperate / Standard)**. If she had some immediate means of escape (like leaping onto a speeding truck), then her effect might even be increased **(Desperate / Great)**.
 - The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger **(Controlled / Great)**. Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies **(Controlled / Limited)**. If the gang is on guard for potential trouble, her position is more dangerous **(Risky / Great)**. If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover **(Risky / Limited)**. If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our hero **(Desperate / Limited)**.
 
+### Threat & Effect
+
+Threat is a major component of setting effect when powers are involved. Evenly matched powers 
+
 ## Consequences & Harm
 
-Villain actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC. There are five types (at right).
+Villain actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC.
 
-A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the style and tone established by the game group. 
-<!-- somethin about power limit consequences  -->
+A given circumstance might result in one or more consequences, especially when a hero is using their powers. The GM determines the consequences, following from the fiction and the style and tone established by the game group. 
 
 ### Reduced Effect
 
-This consequence represents impaired performance. The PC’s action isn’t as effective as they’d anticipated. You hit him, but it’s only a bruise. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going—you’re only halfway up. This consequence essentially reduces the effect level of the PC’s action by one after all other factors are accounted for.
+This consequence represents impaired performance. The PC’s action isn’t as effective as they’d anticipated. You hit him, but it’s only a bruise. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going—you’re only halfway up. This consequence essentially reduces the effect level of the PC’s action after all other factors are accounted for.
 
 ### Complication
 
-This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you’re disarmed, the team looses status with police because of the chaos, you lose status with another organization, the target evades you and now it’s a chase, reinforcements arrive, the villains start taking hostages, etc.
+This consequence represents unwanted collateral damage, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you’re disarmed, the team looses status with police because of the chaos, you lose status with another organization, the target evades you and now it’s a chase, reinforcements arrive, the villains start taking hostages, etc.
 
 Or the GM might tick a clock for the complication, instead. Maybe there’s a clock for the activation of the villain's superweapon. Or maybe the GM creates a new clock for the suspicion of the elite guests at the masquerade party and ticks it. Fill one tick on a clock for a minor complication or two ticks for a standard complication.
 
