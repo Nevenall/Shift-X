@@ -88,7 +88,7 @@ There are 12 **actions** in the game that the player characters use to overcome 
 - Fight
 - Inspire
 - Know
-- Meance
+- Menace
 - Move
 - Socialize
 - Spy
@@ -98,7 +98,7 @@ There are 12 **actions** in the game that the player characters use to overcome 
 - Wreck
 :::
 
-Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Menance} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. Your **powers**, however, are separate from your action ratings. You may describe your character making use of their powers, or not, when you perform an action. 
+Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Menace} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing. Your **powers**, however, are separate from your action ratings. You may describe your character making use of their powers, or not, when you perform an action. 
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
@@ -143,9 +143,9 @@ When you {Know}, you use research and accumulated knowledge to unravel mysteries
 
 *You might know an important detail about a villain's background or dig through a mess of satellite data to discover where their lair is. You could try {Knowing} how to operate some alien technology (but {Tech} might be better).*
 
-When you {Menance}, you invoke emotions of anger and terror in others.
+When you {Menace}, you invoke emotions of anger and terror in others.
 
-*You might {Menance} a villain's thug into giving you information. You might threaten a cohort into obeying you. You could try to {Menance} someone into being friends (but {Swaying} might be better).*
+*You might {Menace} a villain's thug into giving you information. You might threaten a cohort into obeying you. You could try to {Menace} someone into being friends (but {Swaying} might be better).*
 
 When you {Move}, you pursue foes or move a fight to another location.
 
@@ -179,7 +179,7 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 ## Powersets
 
-*Shift-X* is about heroes with dangerous and powerful abilities. **Powers** are grouped into related **power sets** and each set is given a **threat** rating that indicates how stong it is when compared to other powers. Powersets generally have a related origin. 
+*Shift-X* is about heroes with dangerous and powerful abilities. **Powers** are grouped into related **power sets** and each set is given a **threat** rating that indicates how strong it is when compared to other powers. Powersets generally have a related origin. 
 
 ### Powers
 
