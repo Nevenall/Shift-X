@@ -9,4 +9,3 @@ This summarizes just the ways in which *Shift-X* differs from *Blades in the Dar
 ## Structure of a Game
 
 The structure of a *Shift-X* game 
-
