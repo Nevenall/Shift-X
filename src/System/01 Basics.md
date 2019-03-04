@@ -388,7 +388,7 @@ Once the player chooses their action, and powers, the GM sets the **position** f
 
 **By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
 
-::: table
+::: figure-table
              |
 ------------:|---
 {Controlled} | You have a golden opportunity. You’re exploiting a dominant advantage. You’re set up for success.
@@ -456,7 +456,7 @@ Since villains don’t roll for their actions, an action roll does double-duty: 
 
 In *Shift-X*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
-::: table
+::: figure-table
 Effect   |                                                              | Ticks
 --------:|--------------------------------------------------------------|:---:
 Great    | You achieve more than usual. How does the extra effort manifest? What additional benefit do you enjoy? | 3
