@@ -51,7 +51,6 @@ function render() {
             markdown.process(vfile, function(err, parsed) {
                var contents
 
-               // todo - for some reason the 01 basics.md file is failing to process.
                if (err) {
                   return callback(new Error(err))
                }
