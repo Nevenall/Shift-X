@@ -19,26 +19,41 @@ While there is some room for scenes between action sequences there's no time to 
 
 ## Powers
 
-### Attack
+### SFX 
+
+By dfault powers have limitations, but special effects
+
+### Stunts
+
+Heros have a whole extra way to push themselves and that is with stunts. Stunts are basically any way of using your powerset that it doens't currently allow, but fits narratively. This could be adding a new power temporaraly, or changing how an existing power works. Stunts typically last for a scene. Which may, or may not, corrispond to a current action sequence.  
+
+### Types
+
+List of powers and specific info about them.  
+
+#### Attack
 
 Attack powers represent some kind of attack a character can make either ranged or close quarters.  
 It can be a physical attack, which is the most common. Physical attacks increase the effect of an action, usually a Fight action and, depending on the description of the power, might lend their effect to Wreck as well. 
-<!-- Default is Fight only, there is a special effect for Wreck AND Fight. Are there some attacks that are directed by other actions? Like is there a power that adds its effect to a Spy action? like a secret device? Also, for an sfx you get potency against groups. Which means something like, no reduced effect against a group for AOE -->
+<!-- Default is Fight only, there is a special effect for Wreck AND Fight. Are there some attacks that are directed by other actions? Like is there a power that adds its effect to a Spy action? like a secret device? Also, for an sfx you get potency against groups. Which means something like, no reduced effect against a group for AOE  
+Or is is flexible like control is. Apply your threat against the magnitude tables when you need to fight multiple targets. 
+-->
 
 Attacks can also be psychic in nature and lend their effect to, most commonly, a Menace action. 
 
-### Defense
+#### Defense
 
 For a defense power, pick an attribute and a general kind of consequence that it will lend it's threat against those. Defenses can be armor, reflexes, predictive insight. Generally, a defense will only apply to a particular attribute.  
 
-### Movement
+#### Movement
 
 Movement powers grant a character either new forms of movement such as flying or swinging, or increased effect for an existing form of movement such as superhuman running. Movement powers generally use a Move action, but can optionally use another action such as Acrobatics.  
 
-### Gather Information
+#### Gather Information
 
-There are 
+There's a vast array of sensory and knowledge powers who's primary purpose is to provide new and unique ways to gather information. Pick one action this power works with. 
 
-### Control
+#### Control
 
-Is Control always use variable stress to do a thing? does that make them more powerful than other powers? 
+Control grants influence over some narrative element. You can "spend" your threat on the magnitude table to assemble the effect of your power. You can spend stess to make up the different if you effect is larger than the threat of your power. 
+
