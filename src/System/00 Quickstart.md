@@ -57,3 +57,12 @@ There's a vast array of sensory and knowledge powers who's primary purpose is to
 
 Control grants influence over some narrative element. You can "spend" your threat on the magnitude table to assemble the effect of your power. You can spend stess to make up the different if you effect is larger than the threat of your power. 
 
+
+## Making Heroes
+
+7 action dots. Max 2 to start. 
+7 threat of powers. Max 3.
+1 Ability.
+
+<!-- So, 1 ability is pretty close to 1 threat worth of powers, so possibly, you could trade 1 threat worth of powers for another ability. Or vice versa?  -->
+
