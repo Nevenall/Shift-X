@@ -39,4 +39,6 @@ Movement powers grant a character either new forms of movement such as flying or
 
 There are 
 
-### 
+### Control
+
+Is Control always use variable stress to do a thing? does that make them more powerful than other powers? 
