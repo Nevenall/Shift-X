@@ -31,7 +31,7 @@ Heros have a whole extra way to push themselves and that is with stunts. Stunts 
 
 List of powers and specific info about them.  
 
-### Cortex Powers
+#### Cortex Powers
 
 Attack: blasts, weapons Durability: toughness, force fields 
 Elemental Control: air, earth, fire, gravity, ice, kinetic, light, weather, water, etc 
