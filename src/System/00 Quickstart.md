@@ -31,6 +31,26 @@ Heros have a whole extra way to push themselves and that is with stunts. Stunts 
 
 List of powers and specific info about them.  
 
+### Cortex Powers
+
+Attack: blasts, weapons Durability: toughness, force fields 
+Elemental Control: air, earth, fire, gravity, ice, kinetic, light, weather, water, etc 
+Intangibility: phasing through objects, going ethereal 
+Invisibility: vs sight or vs other senses 
+Mimic: creating copies of other powers as assets 
+Movement: speed, flight, swing, swim etc Psychic: mind control, telepathy, etc 
+Reflexes: reaction time, coordination 
+Resistance: vs sonic, poison, psychic, fire, etc 
+Senses: vision, hearing, touch, weird senses 
+Shapeshift: changing shape, copying other’s appearance
+Size-Changing: grow, shrink 
+Sorcery: creating magical assets 
+Stamina: endurance, staying power 
+Strength: might and heavy lifting 
+Stretch: elongated limbs 
+Teleport: gateways, wormholes, shadow-steps, etc 
+Transmutation: changing one thing into another
+
 #### Attack
 
 Attack powers represent some kind of attack a character can make either ranged or close quarters.  
