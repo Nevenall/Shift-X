@@ -4,20 +4,27 @@ For players already familar with *Blades in the Dark*, this quickstart summerize
 
 ## Structure of a Game
 
-A *Shift-X* session may start with downtime activities and free play just like a *Blades* game, but rather than the crew picking a score and making an engagement roll, the GM will pick a moment to interrupt the heroes's lives with some villain's evil plans. 
+A *Shift-X* session may start with downtime activities and free play just like a *Blades* game, but rather than the crew picking a score and making an engagement roll, the GM will pick a moment to interrupt the heroes's lives with a villain's evil plans. 
 
 ### Action Sequences
 
-The central unit of cinematic play in *Shift-X* is the action sequence. 
-<!-- need to describe an action sequence a little more. espeically how it represents some part of the villain's plan. -->
+The central unit of cinematic play in *Shift-X* is the action sequence. It's one, or more, scenes of action and conflict where the heroes attempt to interfere with some part of the villain's plan.
+
+An action sequence kicks off with the GM making an engagement roll on behalf of the villain to see how well this stage of their plan is going when the action starts. Do the heroes arrive just in the nick of time? (**4/5**), or do they get the drop on the unfortunate mastermind (**1-3**)?
+
+GM Note: It's best to make the engagement roll early, even before the transition activities are done because the engagement roll can have strong affect on the next action sequence. It could make the different between fighting an army of the villain's minions or ambushing the villain alone. 
+
 Thwarting a villain involves an escalating series of action sequences connected by a transition period where heroes can risk taking time to gather info or recover stress before the next action sequence. 
 
-### Villain Pressure
+### Transition Activities
 
-While there is some room for scenes between action sequences there's no time to rest becuase it's the villain and their plan that drives *Shift-X*. If the heroes take too long the It's the villain that makes
-
+Between action sequences is a period of transition where heroes often travel to new locations and have the chance to do things like recover stress or gather information. However, the more transition activities the team persues, the more dice the GM will add to the villain's next engagement roll. This is the driving tension of *Shift-X* and is quite different from the slowly building tension of *Blades in the Dark*.
 
 ## Powers
+
+section for powers and powersets, their basic structure. Name, threat, description. Limits. 
+
+A bit about how you use powers and what might happen when you do.
 
 ### SFX 
 
@@ -26,6 +33,25 @@ By dfault powers have limitations, but special effects
 ### Stunts
 
 Heros have a whole extra way to push themselves and that is with stunts. Stunts are basically any way of using your powerset that it doens't currently allow, but fits narratively. This could be adding a new power temporaraly, or changing how an existing power works. Stunts typically last for a scene. Which may, or may not, corrispond to a current action sequence.  
+
+## Into the Action
+
+This is a section for taking actions and how powers affect that, and also additional complications that can occur, namely, adding engagement dice. And powers getting overtaxed or shutdown. 
+
+Also want to know about the GM spending villiany dice for things like villain "flashbacks" and contingincy plans, and also to escape.  
+
+## Transitions
+
+common transition activities. Healing rolls, relationship rolls, gather info. Other stuff, gathering new resources. 
+
+## Making Heroes
+
+7 action dots. Max 2 to start. 
+7 threat of powers. Max 3.
+1 Ability.
+3 dots of relationships, 1 must be an NPC. Also they are symetric, so if you choose someone and they also choose you, you both get a 2. 
+
+Writing powers. 
 
 ### Types
 
@@ -78,11 +104,6 @@ There's a vast array of sensory and knowledge powers who's primary purpose is to
 Control grants influence over some narrative element. You can "spend" your threat on the magnitude table to assemble the effect of your power. You can spend stess to make up the different if you effect is larger than the threat of your power. 
 
 
-## Making Heroes
-
-7 action dots. Max 2 to start. 
-7 threat of powers. Max 3.
-1 Ability.
 
 <!-- So, 1 ability is pretty close to 1 threat worth of powers, so possibly, you could trade 1 threat worth of powers for another ability. Or vice versa?  -->
 
