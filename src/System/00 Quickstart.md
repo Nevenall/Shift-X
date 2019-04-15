@@ -89,11 +89,34 @@ Attacks can also be psychic in nature and lend their effect to, most commonly, a
 
 #### Defense
 
-For a defense power, pick an attribute and a general kind of consequence that it will lend it's threat against those. Defenses can be armor, reflexes, predictive insight. Generally, a defense will only apply to a particular attribute.  
+Defense powers are very common. They provide a hero the ability to resist even fatal consequences. When you take a resist power, pick an attribute and a common type of damage or consequence you can resist. When you resist a consequence without a power you normally reduce it's severity by 1, but when you use a power to resist a consequence you can reduce it by 1+(threat of your defense power). this makes it more common for you to entirely avoid consequences. 
+
+Also, when you use a defense power you might avoid the consequence entirely but trade it in for a sutably reduced consequence of a very different type based upon the limits of your powerset.
+
+Some resist powers grant you the ability to resist consequences with a different attribute.
+
+Some common examples:
+> Body Armor - resists phsyical attacks with Prowess. notibly small arms, punches, and perhaps lasers. Doesn't usually work as well more elemental attacks like fire, lightning, posion and such.
+> Toughness - Like armor but your body is especially resilient. Resist physical consequences with Prowess. Also not generally as good against elemental harm.
+> Force Field - You can create force fields from your will. Resist physical consequences with Resolve. You have to be aware of the harm to use this power.  
+> Resist Fire - You can resist harm from fire and heat with Prowess. So, for more limited powers like this, do you get increased effect. You can 
+> Precognition - If you are aware of a physical consequence you can resist it with Insight.
+> Reflexes - You can dodge lots of consequences with your amazing reflexes. You have to be aware of the consequence. 
+
+#### Resist
+
+Resist powers work against a specific uncommon kind of consequence. Such as heat and fire, or cold, or psychic attacks, or being conned or lied to. Because these powers are generally less applicable, they reduce the severity of consequences by the power's threat BEFORE you need to roll to resist. In this way a resist power allows you to ignore consequences that do not exceed your threat. If a consequence is greater then your power you resist the overage normally if you wish.
+
+Question is, can you take a power that resists physical attacks? Like, lasers, or hand to hand attacks? 
+
+> Born on a Fire Planet - Reduce incoming heat and fire-based consequences. 
+> Iron Shirt - By focusing your chi you can reduce the level incoming hand to hand attacks. 
 
 #### Movement
 
-Movement powers grant a character either new forms of movement such as flying or swinging, or increased effect for an existing form of movement such as superhuman running. Movement powers generally use a Move action, but can optionally use another action such as Acrobatics.  
+Movement powers grant a character either new forms of movement such as flying or swinging, or increased effect for an existing form of movement such as superhuman running. Movement powers generally use a Move action, but can optionally use another action such as Acrobatics.
+
+
 
 #### Gather Information
 
