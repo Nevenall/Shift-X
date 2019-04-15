@@ -1,10 +1,10 @@
 # Quickstart
 
-For players already familar with *Blades in the Dark*, this quickstart summerizes how *Shift-X* is different.
+For players already familiar with *Blades in the Dark*, this quickstart summarizes how *Shift-X* is different.
 
 ## Structure of a Game
 
-A *Shift-X* session may start with downtime activities and free play just like a *Blades* game, but rather than the crew picking a score and making an engagement roll, the GM will pick a moment to interrupt the heroes's lives with a villain's evil plans. 
+A *Shift-X* session may start with downtime activities and free play just like a *Blades* game, but rather than the crew picking a score and making an engagement roll, the GM will pick a moment to interrupt the heroes' lives with a villain's evil plans. 
 
 ### Action Sequences
 
@@ -18,7 +18,7 @@ Thwarting a villain involves an escalating series of action sequences connected 
 
 ### Transition Activities
 
-Between action sequences is a period of transition where heroes often travel to new locations and have the chance to do things like recover stress or gather information. However, the more transition activities the team persues, the more dice the GM will add to the villain's next engagement roll. This is the driving tension of *Shift-X* and is quite different from the slowly building tension of *Blades in the Dark*.
+Between action sequences is a period of transition where heroes often travel to new locations and have the chance to do things like recover stress or gather information. However, the more transition activities the team pursues, the more dice the GM will add to the villain's next engagement roll. This is the driving tension of *Shift-X* and is quite different from the slowly building tension of *Blades in the Dark*.
 
 ## Powers
 
@@ -28,17 +28,17 @@ A bit about how you use powers and what might happen when you do.
 
 ### SFX 
 
-By dfault powers have limitations, but special effects
+By default powers have limitations, but special effects
 
 ### Stunts
 
-Heros have a whole extra way to push themselves and that is with stunts. Stunts are basically any way of using your powerset that it doens't currently allow, but fits narratively. This could be adding a new power temporaraly, or changing how an existing power works. Stunts typically last for a scene. Which may, or may not, corrispond to a current action sequence.  
+Heroes have a whole extra way to push themselves and that is with stunts. Stunts are basically any way of using your powerset that it doesn't currently allow, but fits narratively. This could be adding a new power temporarily, or changing how an existing power works. Stunts typically last for a scene. Which may, or may not, correspond to a current action sequence.  
 
 ## Into the Action
 
 This is a section for taking actions and how powers affect that, and also additional complications that can occur, namely, adding engagement dice. And powers getting overtaxed or shutdown. 
 
-Also want to know about the GM spending villiany dice for things like villain "flashbacks" and contingincy plans, and also to escape.  
+Also want to know about the GM spending villainy dice for things like villain "flashbacks" and contingency plans, and also to escape.  
 
 ## Transitions
 
@@ -49,7 +49,7 @@ common transition activities. Healing rolls, relationship rolls, gather info. Ot
 7 action dots. Max 2 to start. 
 7 threat of powers. Max 3.
 1 Ability.
-3 dots of relationships, 1 must be an NPC. Also they are symetric, so if you choose someone and they also choose you, you both get a 2. 
+3 dots of relationships, 1 must be an NPC. Also they are symmetric, so if you choose someone and they also choose you, you both get a 2. 
 
 Writing powers. 
 
@@ -89,14 +89,14 @@ Attacks can also be psychic in nature and lend their effect to, most commonly, a
 
 #### Defense
 
-Defense powers are very common. They provide a hero the ability to resist even fatal consequences. When you take a resist power, pick an attribute and a common type of damage or consequence you can resist. When you resist a consequence without a power you normally reduce it's severity by 1, but when you use a power to resist a consequence you can reduce it by 1+(threat of your defense power). this makes it more common for you to entirely avoid consequences. 
+Defense powers are very common. They provide a hero the ability to resist even fatal consequences. When you take a defense power, pick an attribute and a common type of damage or consequence you can resist. When you resist a consequence without a power you normally reduce it's severity by 1, but when you use a power to resist a consequence you can reduce it by 1+(threat of your defense power). this makes it more common for you to entirely avoid consequences. 
 
-Also, when you use a defense power you might avoid the consequence entirely but trade it in for a sutably reduced consequence of a very different type based upon the limits of your powerset.
+Also, when you use a defense power you might avoid the consequence entirely but trade it in for a suitably reduced consequence of a very different type based upon the limits of your powerset.
 
 Some resist powers grant you the ability to resist consequences with a different attribute.
 
 Some common examples:
-> Body Armor - resists phsyical attacks with Prowess. notibly small arms, punches, and perhaps lasers. Doesn't usually work as well more elemental attacks like fire, lightning, posion and such.
+> Body Armor - resists physical attacks with Prowess. notably small arms, punches, and perhaps lasers. Doesn't usually work as well more elemental attacks like fire, lightning, poison and such.
 > Toughness - Like armor but your body is especially resilient. Resist physical consequences with Prowess. Also not generally as good against elemental harm.
 > Force Field - You can create force fields from your will. Resist physical consequences with Resolve. You have to be aware of the harm to use this power.  
 > Resist Fire - You can resist harm from fire and heat with Prowess. So, for more limited powers like this, do you get increased effect. You can 
@@ -124,7 +124,7 @@ There's a vast array of sensory and knowledge powers who's primary purpose is to
 
 #### Control
 
-Control grants influence over some narrative element. You can "spend" your threat on the magnitude table to assemble the effect of your power. You can spend stess to make up the different if you effect is larger than the threat of your power. 
+Control grants influence over some narrative element. You can "spend" your threat on the magnitude table to assemble the effect of your power. You can spend stress to make up the different if you effect is larger than the threat of your power. 
 
 
 
