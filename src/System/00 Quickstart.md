@@ -57,9 +57,10 @@ Writing powers.
 
 List of powers and specific info about them.  
 
-#### Cortex Powers
+ <!-- Cortex Powers
 
-Attack: blasts, weapons Durability: toughness, force fields 
+Attack: blasts, weapons 
+Durability: toughness, force fields 
 Elemental Control: air, earth, fire, gravity, ice, kinetic, light, weather, water, etc 
 Intangibility: phasing through objects, going ethereal 
 Invisibility: vs sight or vs other senses 
@@ -75,12 +76,26 @@ Stamina: endurance, staying power
 Strength: might and heavy lifting 
 Stretch: elongated limbs 
 Teleport: gateways, wormholes, shadow-steps, etc 
-Transmutation: changing one thing into another
+Transmutation: changing one thing into another 
+
+CUrrent power categories are more abstract than these. That could be kinda an issue for somethings because you get caught up in what is the right way to describe a power discussions. Also, what about sfx? there is some room for them, maybe. Like, add an extra option, I think I did that for the Powerfist. The fist works for fight or wreck, which makes sense, but here is the thing... does it make any sense to limit powers to a specific action? or a specific attrribute for that matter? 
+DOes that break the fiction-first nature of the game? I think so. 
+Which means, some powers you can obviously use for fighting and wrecking, or fighting and move like iron man's repulsors. You just have to accept any consequences you might run into. 
+Which is fine, means we have to describe powers well. 
+
+for example, it just makes sense that you could roll acrobatics when using a move power based on swinging. 
+
+
+So, here is another issue from iron man, what about the giant chest beam, the attack power you only use once. or so, is that a stunt? similar question, why ever take more than one attack power? If you break it down, do superheroes ever really have more than one attack power? or are their attacks just some flavor of the same powers? And, if someone did take two attack powers...what 
+
+-->
 
 #### Attack
 
 Attack powers represent some kind of attack a character can make either ranged or close quarters.  
 It can be a physical attack, which is the most common. Physical attacks increase the effect of an action, usually a Fight action and, depending on the description of the power, might lend their effect to Wreck as well. 
+
+Pick an action and 
 <!-- Default is Fight only, there is a special effect for Wreck AND Fight. Are there some attacks that are directed by other actions? Like is there a power that adds its effect to a Spy action? like a secret device? Also, for an sfx you get potency against groups. Which means something like, no reduced effect against a group for AOE  
 Or is is flexible like control is. Apply your threat against the magnitude tables when you need to fight multiple targets. 
 -->
