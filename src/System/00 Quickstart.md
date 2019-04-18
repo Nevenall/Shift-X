@@ -145,3 +145,27 @@ Control grants influence over some narrative element. You can "spend" your threa
 
 <!-- So, 1 ability is pretty close to 1 threat worth of powers, so possibly, you could trade 1 threat worth of powers for another ability. Or vice versa?  -->
 
+## dev notes about powers
+
+I'm currently working though the characters again after the first time adding them to roll20, and I'm wondering where I want to place the divider between narrative and mechnically. I recently thought I probably don't want to specific an action that you use your power with. Narratively, if your power can apply to an action than it does otherwise not. 
+
+So, I do no like worlds in peril powers because they don't mean a damned thing. I like the balance of MSH, but...it's still in the air how well that fits into blades. 
+
+A power grants inceased effect. Powers should be narrative. Like, reflexes not defense. Because enhanced reflexes can apply to lots of actions like, acrobatics, maybe even fighting, but just like actions in blades, the gm says if your power has reduced effect in a given circumstance. So, if you are using enhanced reflexes to fight an armored robot, than the gm is with their right to say that you can do, but besides your effect being reduced by the robot's armor, your reflexes effect will also suffer reduced effect because this is not a clumsy robot. 
+
+So, that's the value of multiple powersets because you can, by default, use one power from each powerset for an action, where appropriate. 
+
+Reduced effect for powers might sometimes mean several levels of reduction. 
+
+Can you include an extra power from a powerset with stress? Think about that. 
+
+Stunts - When you create a stunt, you add a power to a powerset for a scene by spending stress of 1 + threat of the stunt? or just equal to threat.  
+
+I like the distinction between defenses and resist. not sure how to codify that in this world. 
+
+Could be resists are additive. Meaning that they are almost always applicable against the thing they resist against. So you have durability and fire resist you can almost always add both against fire attacks. mmm...that might fiddle with the default one power per set. But seems like a good pay off for investing in resists. 
+
+Which raises the question, what if you have attack and reflexes? can you use all of them for a fight action? does this mean every action is an "add all your powers together" kind of thing? 
+Pick your highest power, invest 1 stress to add your second highest power? that seems reasonbale especailly because it means you are risking consequences because you still have to roll your action no matter how much power you migth add to something. yuss.
+
+Special Effects - Anything that fiddles with the threat levels of your powers is a great candidate for a special effect. 
