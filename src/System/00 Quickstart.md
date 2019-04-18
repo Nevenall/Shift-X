@@ -169,3 +169,89 @@ Which raises the question, what if you have attack and reflexes? can you use all
 Pick your highest power, invest 1 stress to add your second highest power? that seems reasonbale especailly because it means you are risking consequences because you still have to roll your action no matter how much power you migth add to something. yuss.
 
 Special Effects - Anything that fiddles with the threat levels of your powers is a great candidate for a special effect. 
+
+
+## Powers Revised
+
+lets take a shot at cortex powers in shift-x. It's almost a direct translation. 
+actions and reactions become actions and resists.
+
+the 1 to 4 scale translates pretty well though I think the shift-x scale might got a ways beyond 4. Maybe we can talk about what the scale for various powers might be. 
+
+### Attack
+
+Blasts, claws, weapons, punches.
+
+### Durability
+
+### Elemental Control
+
+### Intangibility
+
+### Invisibility
+
+### Movement
+
+### Psychic 
+
+These are a more interesting category, There's mind control and telepathy. Both have their scales and their effects. In C+ they are used to create complications. 
+
+### Reflexes
+
+Simlar to movement powers but not quite the same. Very come and can be used for actions or resistance. But obviously you have to be able to see it coming. 
+
+Maybe change acrobatics back to Finesse? 
+
+### Resistance
+
+You are resistant to some kind of harm most people are normally not. Mystic or Psychic. Mmm...
+
+### Senses
+
+Tons of different possibilities here. Can help with actions, resists or gather info. 
+
+### Shapeshifting
+
+Also generally useful. 
+
+### Size Changing
+
+Grow or shrink, tend to come associated with other powers and some specific limits 
+
+### Sorcery
+
+Or cosmic force, not sure exactly about this one yet.
+
+### Stamina
+
+in c+ this one is mostly about recovery. Or resisting toxins and diseases and such. Totally can serve the same purpose 
+
+### Strength 
+
+Good one for actions, specially wreak. 
+
+### Stretching
+
+mmmm...stretching. So, this could be 
+
+### Teleport
+
+Bamf!
+
+### Transmutation
+
+I guess it's a thing
+
+## Special Effects (sfx)
+
+Things that can increase or decrease the threat of powers is commonly a sfx. Powerset related things.
+
+### Absorbtion 
+
+when you resist a [type of attack] you can create a stunt using the avoided consequence or add it equally to all the powers in your set. 
+
+<!-- That's really cool actually.  -->
+
+### Afflict 
+
+honestly, complications have ratings and you could well inflict them on an NPC, or vice versa. Treat complications as a game entity. Now we really are directly translation c+.
