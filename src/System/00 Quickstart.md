@@ -248,10 +248,18 @@ Things that can increase or decrease the threat of powers is commonly a sfx. Pow
 
 ### Absorbtion 
 
-when you resist a [type of attack] you can create a stunt using the avoided consequence or add it equally to all the powers in your set. 
+when you resist a [type of attack] you can create a stunt using the avoided consequence or add it equally to all the powers in your set, for the rest of scene. 
 
 <!-- That's really cool actually.  -->
 
 ### Afflict 
 
 honestly, complications have ratings and you could well inflict them on an NPC, or vice versa. Treat complications as a game entity. Now we really are directly translation c+.
+
+Increased effect when you inflict [type of consequence].
+
+### Area of Effect
+
+Either you have increased effect on the magnitude table for size, or just your powers have AOE. Collateral damage can be a thing with these powers though. 
+
+###
