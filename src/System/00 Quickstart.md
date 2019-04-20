@@ -178,6 +178,8 @@ actions and reactions become actions and resists.
 
 the 1 to 4 scale translates pretty well though I think the shift-x scale might got a ways beyond 4. Maybe we can talk about what the scale for various powers might be. 
 
+Recovering Shutdown powers: Wait for a transition scene, may or may not cost. Take an appropriate action to recover during an action sequence. Might be able to recover if you crit on an action.
+
 ### Attack
 
 Blasts, claws, weapons, punches.
@@ -244,22 +246,86 @@ I guess it's a thing
 
 ## Special Effects (sfx)
 
-Things that can increase or decrease the threat of powers is commonly a sfx. Powerset related things.
+Things that can increase or decrease the threat of powers is commonly a sfx.
 
-### Absorbtion 
+### Absorption 
 
-when you resist a [type of attack] you can create a stunt using the avoided consequence or add it equally to all the powers in your set, for the rest of scene. 
-
-<!-- That's really cool actually.  -->
+When you resist a [type of attack] you can create a stunt using the avoided consequence or add it equally to all the powers in your set, for the rest of scene. 
 
 ### Afflict 
 
-honestly, complications have ratings and you could well inflict them on an NPC, or vice versa. Treat complications as a game entity. Now we really are directly translation c+.
-
-Increased effect when you inflict [type of consequence].
+Increased effect when you inflict [type of consequence]. Maybe also add +1d?
 
 ### Area of Effect
 
 Either you have increased effect on the magnitude table for size, or just your powers have AOE. Collateral damage can be a thing with these powers though. 
+
+### Berserk
+
+Add a die to the villainy pool for +1 effect. 
+
+### Boost
+
+Shutdown a power and increase the threat of another by +1. 
+
+### Burst
+
+Add +1d against a single target but with reduced effect.
+
+### Constructs
+
+Increased effect for stunts. 
+
+### Counterattack
+
+When you resist stuff, you can turn it into an attack. 
+
+### Dangerous
+
+Move your action towards desparate for increased effect.
+
+### Focus 
+
+a thing?
+
+### Healing
+
++1d to treatment rolls for [type of harm].
+
+### Immunity
+
+Spend 1 stress to avoid [type of consequence].
+
+### Multipower
+
+Include more than one power from the same set in an action at -1 threat to each.
+
+### Second Chance
+
+spend 1 stress to reroll an action?
+
+### Second Wind 
+
+mmmm
+
+### Unleashed
+
+Inflict a consequence and increase the threat of a power by the same.
+
+## Limits
+
+Every powerset has at least one.
+
+### Conscious Activation
+
+Shutdown powerset when you are not conscious, or at 3 harm. 
+
+### Exhausted
+
+So what if instead of getting a PP you can shutdown a power like armor?
+
+### Gear
+
+Shutdown a power for an armor effect. Recover by taking an action or transition scene. 
 
 ###
