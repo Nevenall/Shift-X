@@ -328,4 +328,19 @@ So what if instead of getting a PP you can shutdown a power like armor?
 
 Shutdown a power for an armor effect. Recover by taking an action or transition scene. 
 
-###
+### Growing Dread
+
+Your powers make stuff worse. Maybe, risky is the best position you can have when using this powerset.
+
+### Mutant
+
+Just one source of powers. 
+
+### Mutually Exclusive 
+
+Makes two powersets mutually exclusive. Shutdown one to activate the other. maybe be worth 2 limits?
+
+### Uncontrollable
+
+
+May have to dig into datafiles for more limits. Also, most of them amount to 
