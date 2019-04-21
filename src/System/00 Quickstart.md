@@ -343,4 +343,32 @@ Makes two powersets mutually exclusive. Shutdown one to activate the other. mayb
 ### Uncontrollable
 
 
-May have to dig into datafiles for more limits. Also, most of them amount to 
+
+
+May have to dig into datafiles for more limits. 
+
+
+
+Interpreting cortex, 
+
+so, what to do about PP? and doom dice? 
+
+
+Campaign threat level. there's total, and spending. I like the way that doubling the cost of dice works. It would be kinda cool to do that here too. Though probably a little akward. 
+Would mean we don't need a max, but the thing is...what about experience? 
+
+threat  cost
+1       1
+2       2 
+3       4
+4       8
+5       16
+6       32
+
+We could either come up with a point system for powers, action dots, and abilities, or we could leave well enough alone for now. 
+
+Theat levels, if we translate msh heroes directly, then we may need more points 
+
+Limits and shutdown, normally you get a reward, a PP for shutting down power. Here we have stress. We could recover 1 stress for activating a limit , but that seems a little weird. 
+It could be that limits just activate especially as a complication. They are not a consequence which means they can't be resisted? Like, shutting down a power is something that could happen from lots of complications, but those can be resisted. When it's a limit you can't? 
+
