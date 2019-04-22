@@ -372,3 +372,11 @@ Theat levels, if we translate msh heroes directly, then we may need more points
 Limits and shutdown, normally you get a reward, a PP for shutting down power. Here we have stress. We could recover 1 stress for activating a limit , but that seems a little weird. 
 It could be that limits just activate especially as a complication. They are not a consequence which means they can't be resisted? Like, shutting down a power is something that could happen from lots of complications, but those can be resisted. When it's a limit you can't? 
 
+So, limits, in cortex they are often player choice, can we make them player choice here? IS that a thing we want to have here? 
+Gear, for example, shutdown a gear power to avoid a consequence. Like it was blades style armor. Is shutting down a power a large enough consequence for avoiding something else? 
+Of course, gear is narrative and many other limits are too that's an important part of this. 
+
+Do, we need limits? Especially mechanical ones? Lots are just the fiction first interactions. Fire vs Ice powers and that kind of thing. 
+
+
+
