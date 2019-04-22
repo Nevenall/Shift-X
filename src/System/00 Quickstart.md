@@ -380,3 +380,22 @@ Do, we need limits? Especially mechanical ones? Lots are just the fiction first 
 
 
 
+More design thoughts about limits. 
+
+I was somewhere last night circling the limits issue. 
+THe best I seem to have right now is limits are complications that shutdown your powers which you can't resist. 
+Technically you can resist any consequence of a roll. Even having your effect reduced. Yet another way to spend stress. :) 
+
+The idea is, you can resist normal complications where your power gets shutdown, but if it's a limit based on you can't. Man, that doens't make that much sense to me. Your powerset is probably always vulnerable to getting shutdown by stuff depending on your power's origins. 
+
+Gear as a limit. Your powerset is based on gear, it's vulnerable to gear stuff. It can get broken, stolen, or reprogrammed. This is a thing that can happen because a villain targets your gear, or because of a consequence that you earn by rolling. So, if your powerset is gear, it's narratively vulnerable in this way it doesn't seem like something you get a point for. This kind of limit is a thing that every powerset has by default based on its origin. 
+
+Which is fine, if you don't take something original than you get exhausted as default. 
+
+
+You can take **additional** limits like conscious activation, for extra points. 
+
+I think that's more like what we want. 
+
+Especially because it means we **have** to dig into the origin of your powerset more.
+But it does mean that things like training powersets are harder to figure out things for. Like, maybe they get exaustion or they are vulnerable to other kinds of training. Like two martial arts styles that are vulnerable to each other. 
