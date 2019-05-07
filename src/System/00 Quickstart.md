@@ -246,6 +246,14 @@ Makes two powersets mutually exclusive. Shutdown one to activate the other. mayb
 
 Change a power into a complication and shut it down. This one is almost worth 2 in the blades world. 
 
+
+## Teams
+
+The heart of *Shift-X* is the team of heroes. 
+
+Big question, do teams have a tier, and if so, how does it advance? we know what it means more or less, the quality of things like gear and cohorts. 
+
+
 ## Gear
 
 Almost every superteam has some kind of standard gear, even if that's just communcation equipment. 
@@ -259,4 +267,36 @@ Is load the right word for it? Resources, Tech, Backup, Support? Could be that t
 Don't want to get too abstract. that way lies some madness let me tell you. Extra personnel and backup are not gear and if you have them available, it's because of a specific ability the team took. 
 
 Yuppssss. Time to starting working on the team biznatch. 
+
+## Downtime
+
+### Projects
+
+Project clocks can do all kinds of things. Could be building things, gathering info.
+
+### Training
+
+Another common one for heroes. Mark an xp for an attribute or a powerset by intense training.
+
+### Solo Issue
+
+Many superheroes have solo adventures. This is a good default downtime activity for heroes. Make some kind of roll, or maybe three. Maybe the position is set by what kind of solo thing it is. From dealing with simple robbers (controlled), to the culmination of a personal mission, (Desperate). The roll is maybe your best action? or a fortune roll based on how prepared you are? if you fail you get to roll again with a worse position, unless of course it's already desperate. Could be you roll your best attribute. 
+
+You get some fair number of experience for a solo issue, like 3 xp, but there is the possiblity you'll be stuck with consequences at the start of the next team issue. 
+
+
+Details to know: who the villain is and their plan; what your approach is; roll to see how it goes; optionally, specify a continuity detail from your solo issue that affects the rest of the game. Like, you recruit a new hero to the team, or for big stuff, take out a faction. 
+
+Steve Rogers at the end of winter solider, a solo issue, ends up with a psychological issue around Bucky, which is then exploited at the start of civil war. Just a minor one, but it's enough. 
+
+So, are solo issues unrelated to the overall team narrative? could you use them to accomplish some team goal? 
+
+
+So, alternately, the solo issue is 1-4 xp depending on consequences, players choice generally, also says how big a continuity thing you can declare. Then you just resist that consequence? 
+Like, an entire mission as a resistance roll. That is interesting. 
+
+
+## Action
+
+for every event, the team can earn or loose a positive rep? maybe have to deal with some fallout from their mission? maybe not as complex as blades, just a simple sliding scale. 
 
