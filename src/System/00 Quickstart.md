@@ -34,6 +34,17 @@ Heroes have a whole extra way to push themselves and that is with stunts. Stunts
 
 This is a section for taking actions and how powers affect that, and also additional complications that can occur, namely, adding engagement dice. And powers getting overtaxed or shutdown. 
 
+
+### Using Powers
+
+A power can be used with either an action or a resist. When you use a power you increase the effect of action by the threat of the power, or reduce the level of harm taken by the threat of your power. 
+
+Even if your power reduces potential harm to 0 or less, you are still rolling a resist and still have to spend the stress. 
+
+Using a power is optional, unless some kind of complication is in play, because whenever you activate a power you give the GM an opportunity to introduce additional complications based on your power and its threat. 
+
+Using a power can make your actions much more effective, but you risk equally more serious complications. 
+
 Also want to know about the GM spending villainy dice for things like villain "flashbacks" and contingency plans, and also to escape.  
 
 ## Transitions
@@ -46,12 +57,8 @@ common transition activities. Healing rolls, relationship rolls, gather info. Ot
 7 threat of powers. Max power 3. 
   Each powerset must have 1 limit, but can have more for extra threat. 
   1 threat for a Sfx.
-1 Ability. <!-- todo - can we trade threat for abilities? or vice versa? Also, abilities? -->
-3 dots of relationships, 1 must be an NPC. Also they are symmetric, so if you choose someone and they also choose you, you both get a 2. 
- 
-
-
-
+1 Ability. <!-- todo - can we trade threat for abilities? or vice versa? -->
+3 dots of relationships, 1 must be an NPC. Also they are symmetric, so if you choose someone and they also choose you, you both start with a 2. 
 
 ## Superpowers
 <!-- 
@@ -60,8 +67,9 @@ actions and reactions become actions and resists.
 
 the 1 to 4 scale translates pretty well though I think the shift-x scale might got a ways beyond 4. Maybe we can talk about what the scale for various powers might be. 
 
-Recovering Shutdown powers: Wait for a transition scene, may or may not cost. Take an appropriate action to recover during an action sequence. Might be able to recover if you crit on an action. -->
-
+Recovering Shutdown powers: Wait for a transition scene, may or may not cost. Take an appropriate action to recover during an action sequence. Might be able to recover if you crit on an action.
+back to a particular question...do powers add to, or replace the default effect of actions/resists? I should try it both ways. 
+-->
 
 Heroes have powers and the powers heroes have are part of a narrative construct called a powerset. 
 
@@ -75,18 +83,23 @@ Each powerset must have at least 1 limit which, following from the shared origin
 
 Each powerset may contain one or more **sfx** which are special things your powers can do and unless otherwise stated apply to every power in the set. 
 
-Besides shared origin and narrative consistance, there is a mechanical advantage to having more the one powerset, because by default you can use one power from each powerset for a particular action.
-
+Besides shared origin and narrative consistance, there is a mechanical advantage to having more the one powerset; by default you can use one power from each powerset for a particular action.
 
 ### Powers
 
-The following is a list og generic powers you can take. The powerset, and the name you pick for the power will fill in the fiction of the power.
+The following is a list of generic powers you can take. The powerset, and the name you pick for the power will fill in the fiction of the power.
 
 #### Attack
 
-Blasts, claws, weapons, punches.
+Blasts, claws, weapons, punches. Most commonly use with Fight actions, but some powers also lend themselves to Wreak or Acrobatic actions. 
 
 #### Durability
+
+There are many many forms of being hard to harm. Works with Prowess resists against appropriate narrative harm. 
+
+
+
+Depending on the narrative particulars of a specific kind of harm vs a specific durability power the GM may judge the durability to have reduced effect, or even no effect.
 
 #### Elemental Control
 
@@ -240,12 +253,11 @@ Just one source of powers.
 
 #### Mutually Exclusive 
 
-Makes two powersets mutually exclusive. Shutdown one to activate the other. maybe be worth 2 limits?
+Makes two powersets mutually exclusive. Shutdown one to activate the other. You can take this on each of the affected powersets.
 
 #### Uncontrollable
 
 Change a power into a complication and shut it down. This one is almost worth 2 in the blades world. 
-
 
 ## Teams
 
